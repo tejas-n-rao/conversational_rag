@@ -1,0 +1,610 @@
+This document provides an overview of the Data Science major, beginning with an introduction to the major. It outlines the structure of the Data Science program, including details on the minor in Data Science. It also contains course descriptions for both the required courses and available electives within the program.
+
+
+
+
+
+
+
+MAJOR IN DATA SCIENCE
+
+Introduction to the Major in Data Science
+
+The undergraduate program in Data Science is intended to be a rigorous program with an interdisciplinary flavor. The program builds on the mathematical foundations of computing complemented by hands-on experience through project work mentored by faculty to address some of the key problems in the field of artificial intelligence (AI), computational and data Sciences with applications in computational sciences, computer vision, digital agriculture, econometrics, e-commerce, environmental studies, finance, medical imaging, supply chain management, etc. 
+
+This program equips students with the requisite skills to effectively analyze the growing amount of data and its complexity and develop tools and services to support strategic and tactical decision-making.  The courses are primarily project-based and provide students with opportunities to gain hands-on experience through the analysis of real-world data sets using a variety of sophisticated tools for modelling, optimization, data mining, and visualization. This program also offers a research-based capstone experience for the students.
+
+One of the unique components of our program is the interdisciplinary flavour where the statistical, programming, and mathematical skills learned can be applied in various social sciences fields. Numerous appealing frontiers exist at the intersection of data sciences and social sciences. Data science methods and tools can be applied to estimate the impact of an impending public policy (for example, the effect of a proposed tax hike by the Government). Similarly, data science has enormous applications in Psephology, a branch of political science. Data scientists can help decode why opinion polls for elections often fail and use machine learning algorithms to run targeted campaigns and estimate public response to political campaigns.  
+
+The program would stand to gain immensely from other disciplines in a liberal arts school. For example, students would learn ethical principles and apply them to the responsible use of artificial intelligence technologies. Lastly, data science often requires complex decision-making regarding appropriate tools and techniques for a problem. Philosophy confers someone with the logical thinking skills required to navigate a complex problem space and arrive at what is necessary to solve the problem.
+
+
+Distinguishing features of the program:
+
+The curriculum is developed so that the students can acquire the necessary math, theoretical, and programming foundations through core courses during the first two years of the program.
+The students from their third year can start taking electives that are interdisciplinary and application-oriented. Further, the program is driven by projects that help students use relevant design and development tools and techniques to solve problems by applying their theoretical and conceptual understanding gained earlier. 
+The program has been designed to conceptualize data through the prism of multiple disciplines of sciences and social sciences.
+The program culminates with a capstone thesis that is essentially a full-fledged project where the student in conjunction with their mentor works on a problem of sufficient scale and complexity involving a good mix of theoretical and practical knowledge by employing state-of-the-art design and analysis tools.
+The following are some of the representative elective courses that this program plans to offer: Big Data Analytics, Computational Methods, Computer Vision, Data Science for Public Policy, Data Visualization, Deep Learning, Econometrics, Graph Theory, High-Performance Computation, History of Data Science, Natural Language Processing, Optimization for Data Science, Simulation and Modelling, and Supply Chain Management, Sports Data Science, Data Science for Politics and Policymaking, History of Data Science
+
+
+
+Program Objectives:
+
+Equip students with analytical skills to analyze big data efficiently and effectively.
+Equip students with the ability to develop prototype analytical tools and services to analyze big data to support strategic and tactical decision-making.  
+Provide students the opportunity to master a variety of sophisticated tools for modeling, optimization, data mining, and visualization. 
+Offer an opportunity to work on a research problem/industry-specific problem through a capstone project.
+
+Program Outcomes:
+Mastery of basic mathematical concepts for representing, storing, retrieving, visualizing, and analysis of large volumes of complex data.
+Mastery of the use of basic tools and techniques for modelling, optimizing, mining, and visualizing of data in real-world contexts.
+Mastery in applying various machine learning (ML) algorithms and techniques for solving problems with applications in domains like computational sciences, computer vision, econometrics, natural language processing, and supply chain management. 
+Mastery of both the understanding and application of statistical methods in providing the statistical grounding of the various AI/ML techniques.
+Mastery of the application of social science skills for addressing some of the vital problems in the field of data science
+
+Credit requirements:
+3-year Data-Science Double Major: 48 Credits (44 required + 4 electives)
+3-year Data-Science Major / Single Major: 60 Credits (44 required + 4 electives)
+4-year Data-Science Double Major (Capstone): 64 Credits (44 required + 8 electives + 12 Capstone Thesis)
+4-year Data-Science Double Major (No Capstone): 64 Credits (44 required + 20 electives)
+4-year Data-Science Major / Single Major (Capstone): 80 Credits (44 required + 24 electives + 12 Capstone)
+4-year Data-Science Major / Single Major ( Np Capstone): 80 Credits (44 required + 36 electives)
+
+
+
+
+
+Structure of the Data Science major
+
+The courses in the Data-Science program can be broadly categorised as Core Basic, Core Foundations, and Core over-arching, Technical Electives, and Other Electives. Note that all required courses are 4 credit courses.
+
+Courses in Core Basic: 
+Python for Data Science
+Introduction to Data Science
+
+
+Courses in Core Foundations: 
+Applied Statistics
+Statistical Learning
+Machine Learning
+Mathematical Foundations of Data Science
+Introduction to Linear Algebra
+Introduction to Calculus
+Data Structures and Algorithms
+Data Management
+
+The Courses Applied Statistics, Statistical Learning and Machine Learning are Core Foundation courses that come under the title “Data Analytics Foundations”.
+
+The Courses Mathematical Foundations of Data Science, Introduction to Linear Algebra and Introduction to Calculus come under the title “Mathematical Foundations”
+
+The Courses ‘Data Structures and Algorithms’ and ‘Data Management’ come under the title “Computational Foundations”
+
+
+Courses in Core Over-arching:  Responsible AI
+
+
+REQUIRED COURSES …
+From the perspective of satisfying the degree requirements for this program, we classify courses into Required courses and Electives as follows.
+
+Required courses: The required courses for the Data Science discipline will form the technical foundations (i.e., core) of the Data Science major. The students are required to take 11 courses worth 44 credits in total, regardless of the major pursued (Single, Double, Capstone, No Capstone). The timeline for required courses is given below:
+
+
+No courses will be offered in Trimester 1 and Trimester 2. The course schedule begins with Python for Data Science in Trimester 3. In Trimester 4, students take Introduction to Data Science and Mathematical Foundations of Data Science, followed by Introduction to Linear Algebra and Applied Statistics in Trimester 5. Trimester 6 covers Introduction to Calculus and Data Structures and Algorithms. In Trimester 7, students study Data Management and choose electives. Trimester 8 introduces Statistical Learning and Responsible AI, along with electives. Trimester 9 focuses on Machine Learning, with additional electives, leading to more electives and a Capstone project in Trimesters 11 and 12.
+
+Trimester 1: 
+Trimester 2: 
+Trimester 3: Python for Data Science (DATA201)
+Trimester 4: Introduction to Data Science (DATA202), Mathematical Foundations of Data Science (DATA203)
+Trimester 5: Introduction to Linear Algebra (COMP208 | DATA208), Applied Statistics (DATA204)
+Trimester 6: Introduction to Calculus, Data Structures and Algorithms
+Trimester 7: Data Management, Electives
+Trimester 8: Introduction to Statistical Learning, Responsible AI, Electives
+Trimester 9: Machine Learning, Electives
+Trimester 10: Electives
+Trimester 11: Electives, Capstone
+Trimester 12: Electives. Capstone
+
+
+Elective courses: The elective courses for the Data Science discipline will help students deepen and/or broaden their understanding in certain domains in Data Science and/or in the intersection of Data Science and related disciplines of Computer Science, Applied Mathematics. Additionally, it will enable students to apply Data Science tools and techniques in solving interdisciplinary problems in domains like Business, Computational Sciences, Social Sciences, Humanities and Environmental Studies. Data Science standalone majors are required to take at least 16 credits worth of Data Science elective courses. Students can pursue elective courses starting from their third year of study (trimester 7). Electives will be offered in the following trimesters: Trimester 6, Trimester 7, Trimester 8, Trimester 9, Trimester 10, Trimester 11, Trimester 12.
+
+
+
+Selected List of Proposed Electives
+
+Introduction to Computer Systems is a 4 credit course. It will be offered in Trimester 8. The courses ‘Principles of Programming’, and ‘Imperative Computation’ from the Computer Science Department are prerequisites for this course. 
+Game Theory is a 4 credit course. It will be offered in Trimester 7/10. The course 'Microeconomics' from the Economics Department is a prerequisite for this course.
+Computational Methods is a 2 credit course. It will be offered in Trimester 8. The course 'Mathematical Methods - I' from the Physics Department is a prerequisite for this course.
+Algorithms of the Internet is a 4 credit course. It will be offered in Trimester 8. The courses 'Mathematical Foundations of Computer Science I’, ’Mathematical Foundations of Computer Science III’,from the Computer Science Department, or ‘Mathematical Foundations of Data Science’ and ‘Introduction to Calculus’ from the Data Science Department are prerequisites for this course.
+Security: Technology, Privacy and Ethics is a 4 credit course. It will be offered in Trimester 9. The courses 'Mathematical Foundations of Computer Science I’ or ‘Mathematical Foundations of Data Science’ are prerequisites for this course.
+Econometrics – II is a 4 credit course. It will be offered in Trimester 8/11. The course 'Econometrics – I' from the Economics Department is a prerequisite for this course.
+Simulation and Modelling is a 4 credit course. It will be offered in Trimester 9. The courses 'Introduction to Calculus’, ‘Applied Statistics’, and ‘Data Structures and Algorithms' from the Data Science Department are prerequisites for this course.
+Big Data Analytics is a 4 credit course. It will be offered in Trimester 9. The course 'Data Structures and Algorithms' from the Data Science Department is a prerequisite for this course.
+Optimization for Data Science is a 4 credit course. It will be offered in Trimester 9. The course 'Machine Learning' from the Data Science Department is a prerequisite for this course.
+Computer Vision is a 4 credit course. It will be offered in Trimester 9/12. The course 'Machine Learning' from the Data Science Department is a prerequisite for this course.
+Natural Language Processing is a 4 credit course. It will be offered in Trimester 9/12. The course 'Machine Learning' from the Data Science Department is a prerequisite for this course.
+Supply Chain Management is a 2 credit course. It will be offered in Trimester 9/12. There are no prerequisites for this course.
+History of Data Science is a 2 credit course. It will be offered in Trimester 10. There are no prerequisites for this course.
+Data Science for Policy is a 4 credit course. It will be offered in Trimester 10. There are no prerequisites for this course.
+Data Politics is a 4 credit course. It will be offered in Trimester 7. There are no prerequisites for this course.
+
+
+
+Capstone thesis: Every student undertaking a 4-year data science major will have to additionally undertake a 12-credit capstone thesis in the last two trimesters of the fourth year of study (trimester 11 and trimester 12). The capstone thesis is essentially a full-fledged project where the student in conjunction with their mentor works on a problem of sufficient scale and complexity involving a good mix of theoretical and practical knowledge by employing state-of-the-art design and analysis tools. The capstone project is to be conducted during trimester 11 and trimester 12.
+
+
+
+Minor in Data Science
+
+A student wanting to minor in data science should gain 32 credits from pursuing data science courses and cross-listed electives. Out of the 32 credits, 28 credits should come from data science required courses (see below) and the remaining 4 credits should be gained from pursuing a data science cross-listed elective. For a detailed list of electives, see subsequent sections. For a 3-year exit option, a minor in data science requires 24 credits for graduation. 
+
+The following courses are required for a student to graduate with a minor in data science:
+
+3-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning and Machine Learning.
+
+4-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Introduction to Linear Algebra (COMP208 | DATA208), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning and Machine Learning.
+
+
+
+
+Required Major Courses
+This section describes all the courses required for the Data Science Major at Krea University
+
+Python for Data Science (DATA201):
+Description of the Python for Data Science (DATA201) course: The Python for Data Science course is a 4-credit course. Python for Data Science (DATA201) is offered in Trimester 3. The Python for Data Science (DATA201) course will introduce the students to (i) Elements of Programming (variables, assignments, built-in data types, conditionals, loops, arrays, input-output processing; (ii) Functions and Modules; (iii) Object-Oriented programming; and (iv) basic algorithms and data structures (data frames, dictionary, list, tuples, etc) for sorting and searching.  This course will also introduce the students to a collection of open-source tools that are required to analyse data and solve data science problems including pandas, NumPy, matplotlib, and seaborn.
+Prerequisites for Python for Data Science (DATA201):  None
+
+Learning Outcomes for Python for Data Science (DATA201):
+
+Use the Python integrated development and learning (IDLE) to test code snippets that involve numerical relations and logical expressions, manipulate character strings, and utilize Python's decision and loop structures.
+Form and manipulate collections of data (such as lists, tuples, sets, and dictionaries). 
+Produce modules of functions for code reuse.
+Develop problem-solving skills through practice and understanding of top-down procedural programming and apply them in solving vital aspects of a real-world problem.
+Syllabus for Python for Data Science (DATA201): Overview of Python and Python IDLE; Elements of Programming: variables; assignment statements; built-in types of data; conditionals and loops; arrays; and input/output processing; Modular programming using Functions and Modules; Data abstraction through the introduction of classes and data types (Object-Oriented Programming); Basic algorithms and data structures  for sorting and searching, and fundamental data structures, including stacks, queues, and symbol tables; Overview of open-source tools needed to analyse data and to solve data science problems including pandas, NumPy, and matplotlib
+
+Reference Textbooks for Python for Data Science (DATA201):
+Introduction to Programming in Python by Kevin Wayne, Robert Dondero, and Robert Sedgewick, Addison-Wesley Professional, ISBN-13: 9780134076430, 2015
+ 
+
+
+Introduction to Data Science (DATA202): 
+Description of the Introduction to Data Science (DATA202) course: The Introduction to Data Science course is offered in Trimester 4. Introduction to Data Science is a 4-credit course. The Introduction to Data Science course introduces the students to the field of data science and the kind of problems that can be solved by data science. Students will learn key data science skills, techniques, and concepts, including data analysis, statistical modelling, and some insight into some standard AI/ML algorithms. The course would also bring the perspectives of data from multiple branches of social sciences and provide a fundamental understanding of how data is conceptualized through the prism of humanities and social sciences. Further, the course will cover how data science skills can be used to address some of the vital problems in the field of social sciences. This would be done by a series of guest lectures by faculty members from social sciences. This is a hands-on course where after a quick primer on Python, the student will start with sourcing, processing, and cleaning a dataset. Then, use Python to mine data from its source and analyse available data by using NumPy and Pandas. Subsequently, the student will be introduced to modelling data to perform predictions using the SciPy, scikit-learn, and stats models libraries. In addition, the student will be introduced to visualization methods using the matplotlib and seaborn library to visually understand the patterns in the data. By the end of this course, students will be able to work on data science tasks practically with different Python libraries and achieve their goals.
+
+Prerequisites of The Introduction to Data Science (DATA202) course: Python for Data Science (DATA201)
+
+Learning Outcomes of Introduction to Data Science (DATA202):
+
+Understand the key concepts in data science, including their real-world applications and the toolkit used by data scientists. 
+Understand how data is collected, managed, and stored for data science tasks and implement data collection and management scripts. 
+Demonstrate a basic understanding of applying statistics and machine learning concepts that are vital for data science. 
+Plan and generate visualisations from data using Python libraries.
+
+
+Syllabus of the Introduction to Data Science (DATA202) course: The field of data science and the problems solved by it; Introduction to data collection and management and the relevant tools and technologies; Introduction to the use of core statistical and machine learning concepts and their corresponding Python tools and libraries (Probability and Distributions, Sampling, Estimation, and Hypothesis Testing); Introduction to statistical and machine learning techniques; Introduction to data analysis and data visualisation (Problem-solving involving modelling, design, development, and analysis of inter-disciplinary problem)
+
+Reference Textbooks for the Introduction to Data Science (DATA202) course:
+
+Fundamentals of Data Science by Samuel Burns, Amazon Asia-Pacific Holdings Private Limited, Kindle Edition, ISBN:  1693798921
+
+
+
+ 
+Mathematical Foundations For Data Science - I (DATA203):
+Description of the Mathematical Foundations of Data Science - I (DATA203) course: It is offered in Trimester 4 and is a 4-credit course. The  
+Mathematical Foundations For Data Science - I (DATA203) course will cover the following topics that are fundamental to the field of data science: Discrete Mathematics: logic, sets, functions, relations, mathematical induction, counting, recursion, trees, and graphs.
+Probability: axioms of probability; conditional probability and independence; random variables; continuous random variables and limit theorems. 
+
+Prerequisite courses for Mathematical Foundations For Data Science - I (DATA203): None
+
+Learning Outcomes of Mathematical Foundations For Data Science - I:
+
+Acquire basic foundational vocabulary of mathematics and understand logically rigorous proofs. 
+Ability to understand and define basic concepts in discrete mathematics (logic, induction, recursion, counting, discrete structures like trees and graphs) 
+Acquire basic understanding of discrete probability (random variables, probability distributions, modelling, estimating probabilities) to solve problems in enumeration, algorithm design, modelling, and statistical estimation.
+
+Syllabus for Mathematical Foundations For Data Science - I: (All statements are with proofs unless explicitly mentioned otherwise)
+Foundations: Logic and Proofs (propositional logic, equivalences, predicates and quantifiers, rules of inference, introduction to proofs), sets, sequences, functions, relations, algorithms, complexity of algorithms, induction and recursion, basics of counting, inclusion-exclusion principle; trees and applications of trees, graphs: models and graph representation, connectivity, and applications of graphs.
+Probability: Axioms of probability, Conditional Probability, and Bayes Rule; Random Variables: Bernoulli, binomial, Poisson and negative binomial random variables; Continuous Random Variables (uniform, normal, and exponential distributions): expectation and variance, uniform random variable, and normal random variables; Properties of Expectation: expectation of sums of random variables; Limit Theorems: Chebyshev’s inequality, weak law of large numbers, central limit theorem, and strong law of large numbers; 
+
+Reference Textbooks for Mathematical Foundations For Data Science - I:
+
+Discrete Mathematics and its Applications by Kenneth Rosen, 7th Edition, McGraw Hill, 2017.
+A First course in probability by Sheldon Ross, Ninth Edition, Pearson Education, 2013.
+Combinatorics and Graph Theory (Undergraduate Texts in Mathematics) 2nd ed. 2008 Edition by John Harris (Author), Jeffry L. Hirst (Author), Michael Mossinghoff (Author).
+
+
+
+
+
+Introduction to Linear Algebra / Mathematical Foundations of Computer Science- II (DATA208 | COMP208):
+
+Description of Introduction to Linear Algebra: The “Introduction to Linear Algebra” course is of 4 credits and is cross-listed with the Computer Science course ‘Mathematical Foundations of Computer Science-II’ (COMP208). It will be offered in Trimester 5. It will deal with Linear Algebra (Vectors, Vector Spaces, Eigenvalues, Eigenvectors, Linear Transformations, SVD). This Introduction to Linear Algebra course offers an introduction to a range of essential mathematical topics centred around linear algebra of finite dimensional real vector spaces, multivariable calculus, and probability. This course is aimed at both computer science and data science major/minor students, who have to/wish to pursue advanced courses without the necessary background in mathematics. The focus will be to inculcate familiarity with the language of continuous mathematics and develop an understanding of the intuition behind the concepts, and an ability to apply these concepts. It will further develop an ability to write basic proofs in these topics.
+
+Prerequisites for Introduction to Linear Algebra: Mathematical Foundations of Data Science - I
+
+Learning Outcomes of the Introduction to Linear Algebra course:
+
+To be able to understand the link between linear algebra and geometry. 
+To understand derivatives and the underlying geometric structure. 
+To understand the notion of derivatives and linear transformations in terms of linear and differential optimization. 
+To model problems using probability.
+
+Syllabus of Introduction to Linear Algebra: Linear Algebra: Geometry of Systems of Linear Equations, Matrices, Solving Systems of Linear Equations, Vector Spaces, Linear Independence, Basis and Rank, Linear Mappings, Rank-Nullity Theorem. Linear Algebra and Geometry: Norms, Inner Products, Lengths and Distances, Angles and Orthogonality, Gram-Schmidt Orthogonalization, Orthonormal Basis, Orthogonal Complement, Inner Product of Functions, Orthogonal Projections, Rotations, Matrix Decompositions, Determinant and Trace, Eigenvalues and Eigenvectors, Eigen-decomposition, and Diagonalization.
+
+
+References Textbooks for the Introduction to Linear Algebra course:
+
+Math for Machine Learning, By Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong, Cambridge University Press, 2020. 
+Linear Algebra Done Right, By Sheldon Axler, Third Edition, Springer, 2015. 
+
+
+
+
+
+
+
+
+
+Data Structures and Algorithms Course: 
+Description of the “Data Structures and Algorithms” course: The “Data Structures and Algorithms” course is a 4-credit course. The “Data Structures and Algorithms” course is offered in Trimester 6. The “Data Structures and Algorithms” course will provide a rigorous introduction to elementary data structures and their analysis and applications to various computational problems in computer science. In addition, this course will introduce students to key algorithmic techniques for design and analysis of data structures for various problems that arise in the field of computer science. The course provides a broad overview of fundamental concepts involved in the design of algorithms and their complexity analysis.
+
+Prerequisite for the Data Structures and Algorithms course: Python for Data Science 
+
+
+Learning Outcomes of Data Structures and Algorithms course: 
+
+Use of basic data structures like stacks, queues, heaps, and binary search trees in designing algorithms for searching and sorting.
+Tools and techniques for analysis of computational complexity of various data structures as well as algorithms for searching and sorting.
+Designing greedy algorithms and dynamic programs for some standard optimization problems that arise in computer science.
+
+
+Syllabus for Data Structures and Algorithms: Recursion; Introduce recursion through divide and conquer approach for solving classic problems like Towers of Hanoi puzzle, the H-tree, and some real-world problems; Common pitfalls in the use of recursion, and the use of dynamic programming to avoid it; Algorithm Time and Space Complexity: big-oh and omega notations for describing the running time of programs and empirical tests for validation; Devise a simple and effective approach that can utilized to predict the running time of programs which involve significant amounts of computation; Stacks, Queues and Heaps with applications; Sorting and Searching Algorithms: insertion sort, merge sort, quick sort, radix sort, heap sort, linear time sorting, binary search, binary search trees, balanced trees, and hashing.
+
+Reference Textbooks for Data Structures and Algorithms:
+
+Introduction to Programming in Java An interdisciplinary approach by Robert Sedgewick and Kevin Wayne, Princeton University, PEARSON Addison Wesley 
+Algorithms by Robert Sedgewick and Kevin Wayne, Princeton University, PEARSON Addison Wesley, 4th Edition.
+Introduction to Algorithms by Cormen, Lieserson, Rivest and Stein, Third Edition, PHI Learning Private Limited
+
+
+
+
+
+
+
+
+
+
+Introduction to Calculus:
+Description of Introduction to Calculus: “Introduction to Calculus” is a 4-credit course offered in trimester 6. The “Introduction to Calculus” course provides an overview of the following topics: Calculus (Limits, Continuity, Basic Overview of Differential and Integral Calculus with Applications that involve modelling, and Differential Equations). Multivariable Calculus: Derivatives, partial derivatives, differentiation with respect to a vector; gradient, Hessian, Jacobian. Taylor's theorem in 1 and n dimensions, with Lagrange remainder. Optimization in 1 and n dimensions, classification of stationary points. Constrained optimization and the method of Lagrange multipliers.
+
+Prerequisites for Introduction to Calculus: None
+
+Learning Outcomes of Introduction to Calculus:
+
+Identify and explain fundamental concepts of multivariable calculus of real and vector functions, such as continuity of function, limit, partial derivative and differential of function, as well as multiple, linear, and surface integrals. 
+Compute partial derivatives of compound functions, implicit functions and the function defined by parametric equations. 
+Model and solve various optimization problems using tools and techniques from multivariate calculus.
+
+
+Syllabus of Introduction to Calculus: Real multivariable functions; Space Rn; Level curves and level surfaces; Limit and continuity; Partial derivatives and differentiability of multivariable functions, gradient; Geometric interpretation: equation of tangential plane and normal on the surface; Partial derivatives of higher order; Partial derivatives of implicit functions and compound functions; Directional derivative; Vector functions; Differentiability of vector multivariable function, Jacobi matrix. Differentials of higher order; Rotation and divergence of vector field; Potential and solenoidal fields; Applications of differential calculus of multivariable functions: mean value theorems, extremes and conditional extremes.
+
+Reference Textbooks for Introduction to Calculus:
+
+J. Stewart, Calculus, 7th Edition, McMaster University and University of Toronto, Brooks/Cole, Cengage Learning, Belmont, 2008.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applied Statistics:
+Description of Applied Statistics: The 4 credit ‘Applied Statistics’ course is offered in trimester 5. The “Applied Statistics” course will begin by providing an overview of statistical thinking: descriptive statistics, simulating various standard discrete and continuous distributions in R, sampling distribution and its connection with the law of large numbers and central limit theorem. Secondly, this course will introduce statistical inference: sampling and its distribution characteristics, point estimation, and hypothesis testing. We illustrate this module by solving some inference problems using time series data obtained from different contexts. 
+
+Prerequisites of Applied Statistics: Mathematical Foundations to Data Science I
+
+Learning Outcomes of Applied Statistics: At the end of the course, the student should gain mastery over
+
+Basic statistical concepts and their role in the analysis of models for making inferences and predictions;
+Mastery in employing the various statistical concepts (central limit theorem, law of large numbers, sampling, properties of probability distributions, statistical tests) and validation techniques for design, development, and analysis of various models for making predictions/inferences.
+Mastery in solving inter-disciplinary problems by effective problem formulation, problem definition, model design, choice of algorithms, analysis, and implementation.
+
+Syllabus of Applied Statistics: Overview of Data Structures in R, Overview of Basic Probability, Descriptive Statistics, Random Variables, Standard Discrete, and Continuous Distributions and their sampling characteristics and simulation; Introduction to Statistical Inference: Point Estimation, Confidence Intervals, and Hypothesis Testing.
+
+Reference Textbooks for Applied Statistics: 
+Introduction to Statistical Thinking by Benjamin Yakir, Google Books, 2014.
+Mathematical Statistics and Data Analysis by John A. Rice, Cengage 3rd Edition, 2013, SBN-13:  978-8131519547
+
+
+
+
+
+
+
+
+
+Introduction to Statistical Learning:
+Description: The 4 credit ‘Introduction to Statistical Learning’ course offered in trimester 8 is a hands-on introduction to tools and techniques in machine learning to model complex phenomena and solve problems in a variety of domains, including health care, medical diagnostics, image recognition, stock prediction, and sports data analytics. This course covers the following topics: (i) Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, model selection, and regularization; (ii) Classification: Logistic Regression, Linear Discriminant Analysis, and support vector machines; and (iv) Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques. This course will also introduce Python tools and libraries including scikit-learn, imblearn etc.
+
+Prerequisite: Mathematical Foundations of Data Science – I, Introduction to Linear Algebra, Data Structures and Algorithms, Applied Statistics
+
+Learning Outcomes: 
+
+At the end of the course, the student should gain mastery over basic tools/concepts
+
+For formulating problems and then design, develop and analyse models by applying/using various standard algorithms/statistical/optimization techniques.
+Gain a fundamental understanding of how machine learning algorithms work, their model parameters and cost function.
+For effective analysis of computational complexity and accuracy of various machine learning models and algorithms employed while solving prediction/inference problems.
+Gain an in depth understanding on which models to employ for appropriate real-world problems
+
+Syllabus: Overview of Machine Learning: Supervised, Unsupervised and Semi-supervised learning; Introduction to Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, Confusion matrix, model selection and regularization with  hands-on projects for using these techniques to develop models for making predictions of stock prices; Overview of Classification Techniques: Logistic Regression, Linear Discriminant Analysis and support vector machines with hands-on project using publicly available datasets; Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques with hands-on projects.
+
+References:
+An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, Springer Science+Business Media, LLC, part of Springer Nature 2013, ISBN: 978-1-4614-7138-7 
+Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurelion Geron, O’Reilly Media Inc.
+
+
+
+
+Machine Learning:
+Description: The 4 credit ‘Machine Learning’ course offered in Trimester 9 is essentially is a hands-on introduction to various types of neural networks used in machine learning and decision trees. Topics include Decision Trees, Bagging Random Forests and Boosting, Introduction to Basic Neural Networks, Activation Functions, Deep Neural Networks (Convolutional Neural Networks (CNN), Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks (GAN), and transformer architectures with applications to problems in Image Processing and Computer Vision. This course will also introduce Python tools and libraries including scikit-learn, Keras, TensorFlow, and PyTorch.
+
+Prerequisites of Machine Learning: Introduction to Statistical Learning, Data Structures and Algorithms
+
+Learning Outcomes:
+
+At the end of the course, the student should gain mastery over:
+
+Basic AI/ML modelling and algorithmic concepts and their role in the design and analysis of models for making inferences and predictions.
+Mastery in employing various statistics and optimization methods in the design, development, and analysis of various models for making predictions/inferences.
+Gain a deep understanding of how neural networks and decision trees solve real problems
+Mastery in solving interdisciplinary problems by effective problem formulation, problem definition, model design, choice of algorithms, analysis, and implementation.
+
+Syllabus: Overview of Deep Learning, Basics of Imaging and Image Classification, Overview of supervised and unsupervised learning, Optimization Methods and Regularization, Introduction to Decision Trees, Bagging Random Forests and Boosting with hands-on project on classification of data points through publicly available data sets. Deep Learning Pipeline and relevant tools like TensorFlow and Keras, Datasets for image classification, Neural Network Basics, Convolution Neural Networks, Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks, and Transformers; Training and Testing these networks. 
+
+References: 
+Deep Learning with Python by Francois Chollet, Manning Publications, ISBN: 9781617294433
+Deep Learning for Computer Vision Starter Bundle by Adrian Rosebrock, Pyimagesearch, 2017
+
+
+
+
+
+
+
+
+
+
+
+Data Management:
+Description: The 4 credit ‘Data Management’ course offered in Trimester 7, focuses on database system concepts and architectures, various data models, Database Design using ER models, UML, Relational Algebra etc. Database as well as web-based programming using SQL, PHP etc., will be covered. It also introduces theoretical concepts on database design and normalization, data storage with the corresponding file structures based on indexing using B-Trees, B+-Trees etc. Further, transaction processing and concurrency control principles will be introduced. Some applications on Information Retrieval and Data Warehousing will be covered.
+
+Prerequisite: Data Structures and Algorithms.
+
+Learning Outcomes: 
+
+A good understanding of Database design, SQL, Transactions, Data pipelines, tools and techniques for creating and analysing data pipelines, and visualization tools
+Ability to build and populate a data warehouse, write aggregation queries, create materialized query tables, and create an analytics dashboard.
+
+Syllabus: The course has the following modules: (1) Introduction to databases, their design and ER modelling. (2) Database programming using SQL and PHP (3) Data Storage using file structures and indexing based on B-Trees, B+-Trees etc. (4) Transaction Management and Concurrency Control (5) Applications and case studies: Information Retrieval systems, search engines, spatial and multimedia databases, Data warehousing and Data Mining. 
+
+
+References: 
+Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey Ullman, and Jennifer Widom, Pearson; 2nd edition (4 September 2008), ISBN-13  :  978-0131873254. 
+Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis and Matt Housley, Shroff/O'Reilly; First Edition (27 June 2022), ISBN-13  :  978-9355421548.
+Fundamentals Of Data Warehousing by M Jarke, Springer India Private Ltd, 2008, ISBN: 9788181289148
+Fundamentals of Database System Concepts, 6th Edition, by Elmasri and Navathe, Addison Wesley.
+
+
+
+
+
+
+Responsible Artificial Intelligence:
+Description: Recent advances in computing and information technologies, including hardware, software, databases, networks and communications have enabled the commercialization of many applications of Artificial Intelligence. Specifically, in the case of Supervised Learning, Deep Neural Networks and related algorithms have been able to achieve or even surpass human-like accuracy in applications like face recognition, voice recognition, automated driving, language translation, etc. This has given rise to multiple deployments of AI-based applications not only in the private sector but also in the Government. These deployments in areas such as recidivism prediction, algorithmic online ad targeting, drug addiction risk prediction, criminal intentionality detection in early stage shoplifting, etc. promise the effectiveness and efficiency of evidence-based decision-making. This early success has spurred rapid and frantic development of solutions using AI/ML and associated technologies without adequate safeguards and regulations. However, of late, multiple cases of bias and unfairness have been reported in the decisions made by AI/ML based algorithms, thus, raising ethical questions. In addition, AI/ML-based decisions cannot be explained easily due to their “black-box” nature. Impenetrability of AI/ML algorithmic decisions has reduced “trust” in the very algorithms that promised so much. This has spurred a call for Explainable AI (XAI) – AI-based decision-making that incorporates the notions of fairness, accountability and transparency.
+
+Learning Outcomes: 
+One of the main objectives of this course is to impart students with sufficient knowledge so that they can critically think about any AI/ML based decision-making algorithm and identify potential problem sources. The problems can then be rectified before the solution is deployed in any real-world application.
+
+Syllabus:
+
+This course intends to equip the participant, the present and future managers, with an understanding of the ethical and other related dimensions in the field of algorithmic and AI/ML-based decision-making. Some of the objectives of this course include:
+1. Understanding the notions of fairness, bias, accountability and trust as applicable to algorithmic decision-making.  
+2. Exploring the AI/ML-based application development process
+3. Understanding the sources of bias, discrimination, lack of transparency, fairness and trust in algorithms
+4. Strategies to mitigate bias and unfairness in algorithms
+
+Prerequisites:  None
+
+
+
+
+
+
+
+
+
+
+
+
+Electives
+The elective courses for Data Science will help students deepen and/or broaden their understanding in certain domains in Data Science and/or in the intersection of Data Science and related disciplines of Computer Science, Applied Mathematics. The courses will enable students to apply Data Science tools and techniques in solving interdisciplinary problems in domains including Business, Computational Sciences, Social Sciences, Humanities and Environmental Studies. Note that all Electives are 4-credit courses, unless specified otherwise.
+
+New electives that have been proposed: 4
+New electives that need to be designed and developed: 8
+Electives that are offered by other programs that will be either cross-listed or used to satisfy prerequisites: 13
+
+
+
+
+New Proposed Electives
+Big Data Analytics:
+Description: The 4 credit ‘Big Data Analytics’ course offered in Trimester 9 will introduce concepts and techniques for managing and analysing large data sets for data discovery and modelling. It will focus on understanding unstructured and semi-structured data sets, collecting and cleaning data in multiple formats from various sources, big data computer system, storage, processing, analysis, visualization, and applications. State-of-the-art computational frameworks for big data analysis, distributed file systems, Apache Spark and PySpark along with the corresponding data processing languages like Hive, Pig, NoSQL etc., will be introduced. Further, case studies like Text Analytics to retrieve relevant text from unstructured, semi-structured or structured text/documents will also be focused.
+
+Prerequisite: Data Structures and Algorithms
+
+Learning Outcomes: 
+
+Upon completion of this course, students will be able to do the following:
+To explore large datasets for data discovery and modelling, understand distributed file systems, map-reduce and Hadoop technology for organizing large data sets efficiently.
+To have insight into data integration and various data mining-related techniques for extracting data in the context of Big Data.
+To become competent in recognizing challenges dealing with very large volumes of data, and how visualization of data impacts business intelligence, scientific discovery and our day-to-day life.
+Students will build and maintain reliable, scalable, distributed systems with Apache Hadoop, MapReduce, Pig, Hive and NoSQL frameworks.
+Students will develop ability to perform data analytics and visualization for a real life and medium to large scale problem.
+Students will be able to design MapReduce solutions for real world big data problems.
+Syllabus: This will be a hands-on course that includes Machine Learning Tools and Techniques in the context of Big Data and consists of the following 4 modules: (1) An overview of Big Data Analytics and Distributed File Systems (2) Introduction to Apache Spark and PySpark (3) Introduction to big data processing technologies like Pig, Hive, NoSQL etc. (4) Case studies: Text Analytics and Video Analytics.  
+
+  
+References: 
+Nathan Marz and James Warren, Big Data: Principles and Best Practices of Scalable Real-Time Data Systems, First Edition, Manning Publications, 2015.
+Seema Acharya, Subhasini Chellappan, Big Data Analytics, Wiley 2015.
+Tom White, Hadoop: The Definitive Guide, Fourth Edition, O’reily Media, 2015.
+Anand Rajaraman and Jeffrey David Ulman, Mining of Massive Datasets, Cambridge University Press, 2012.
+
+
+
+
+Computer Vision:
+Description: The 4-credit ‘Computer Vision’ course offered in Trimester 9 is meant to cover recent advances in the domain of computer vision. The course will gradually meander from low-level computer vision to high-level concepts. It will introduce traditional computer vision topics like filters, local image features and texture descriptors, then move to mid-level vision covering visual matching through Hough transform, and optical flow. It ends up in high-level vision tasks like segmentation, tracking, classification, detecting objects, and person recognition.
+
+Prerequisite: Machine Learning
+
+Learning Outcomes: 
+
+Finding known models and applying them to applications.
+Use low and mid-level algorithms to analyse and extract structural information.
+Develop applications in computer vision like classification, semantic segmentation, tracking, person identification.
+Students will be able to learn how to work with large datasets including parallelism, Hadoop, Pig, Hive, Map Reduce Framework etc.
+
+Syllabus: The following are the tentative list of topics that are likely to be covered in this course: Human Vision and Colour perception, Linear filters, local image features, motion perception, image segmentation, image registration, image classification, object recognition and person recognition.
+
+References: 
+Szeliski (2010), "Computer Vision: Algorithms and Applications", 2nd edition, Springer, 2022
+Rafael C. Gonza Lez & Richard E. Woods (2018), “Digital Image Processing”, 4th Edition, Pearson Education, 2018
+Forsyth & Ponce (2011), "Computer Vision: A modern approach", 2nd Ed., Pearson 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+Optimisation for Data Science:
+Description: The 4 Credit ‘Optimisation for Data Science’ course offered in Trimester 10 focuses on the introduction to optimization theory, single and multi-variate calculus. It also focuses on convex optimization, linear programming, formulation of primal and dual problems. Unconstrained and constrained optimization techniques like gradient descent methods, lagrange multipliers etc., will be covered. Further, it focuses on the applications and case studies on optimization problems in Engineering, Finance, Machine learning, Data Science etc.
+Course Outcomes:
+
+Students will be able to 
+
+Formulate and solve linear programming problems.
+Understand the unconstrained and constrained optimization problems.
+Implement numerical methods, gradient descent methods and its variants.
+Design and optimize cost functions used in various domains/fields like Engineering, Finance, Machine Learning, Deep Learning, Data Science etc.
+
+Syllabus:
+
+The course has the following contents: (1) Introduction to Optimization theory, single and multi-variate Calculus (2) Convex optimization, Linear Programming, Primal and Dual problems, Simplex method and Duality theory (3) Unconstrained optimization: Least squares problems, Numerical Methods, Gradient Descent and Newton methods, accelerated gradient approaches: Heavy Ball method and Nesterov acceleration. (4) Constrained optimization: Lagrange multipliers, Karush-Kuhn-Tucker conditions, Weak and Strong duality (5) Applications and Case studies on optimization problems in Engineering, Finance, Machine Learning and Data Science.
+
+Text Books:
+
+Convex Optimization by Stephen Boyd and Lieven Vandenberghe, First Edition, Cambridge University Press, 2004.
+
+Numerical Optimization by Jorge Nocedal and Stephen J. Wright, Second Edition, Springer, 2006.
+
+Optimization for Machine Learning by  Sra Suvrit, Nowozin Sebastian and Wright Stephen J. , PHI, 2013.
+
+Algorithms for Optimization by Mykel J. Kochenderfer and Tim A. Wheeler, MIT Press, 2019.
+
+ Prerequisites: Machine Learning
+
+
+
+
+
+
+
+
+
+
+Natural Language Processing:
+Description: The 4-credit ‘Natural Language Processing’ course offered in Trimester 10 provides a theoretical and methodological introduction to Natural Language Processing (NLP). It focuses on various NLP aspects like basic language models, part-of-speech (POS) tagging, syntactic parsing and semantic analysis. Statistical and Machine Learning approaches like Hidden Markov Models, Recurrent Neural Networks etc., for NLP tasks/applications like Machine Translation, Sentiment Analysis, Question Answering, Information Extraction etc., will be covered. It also focuses on the implementation and hands-on experience of the above algorithms using NLP toolkits, Keras and Tensorflow libraries in Python. 
+
+Outcomes:
+
+Students will be able to:
+Understand how machines analyze and interpret natural language.
+Understand syntactic and semantic approaches in NLP.
+Apply statistical and machine learning approaches like Hidden Markov Models, Deep Neural Networks etc., for various NLP tasks like Natural Language Generation, Question Answering and Machine Translation.
+Implement NLP algorithms using NLP toolkits, Keras/Tensorflow libraries in Python.
+
+Syllabus:
+
+The course has the following contents: (1) Introduction to Language Models: N-gram models and parameter estimation (2) Part of Speech (POS) tagging, syntactic parsing and semantic analysis (3) Statistical and Machine Learning/Deep Learning approaches for NLP: Hidden Markov Models, Unsupervised Methods and Recurrent Neural Networks (4) NLP Applications: Text Classification, Text Generation and Summarization, Information Extraction: Named entity recognition and relation extraction, Question Answering and Chatbots, Machine Translation and Text to Speech (TTS). 
+
+Textbooks:
+
+Jurafsky, David, and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. Prentice-Hall, 2000.
+
+Manning, Christopher D., and Hinrich Schütze. Foundations of Statistical Natural Language Processing. Cambridge, MIT Press,1999.
+
+Rajesh Arumugam and Rajalingappaa Shanmugamani. Hands-On Natural Language Processing with Python. Packt Publishing, 2018.  
+ Prerequisites: Machine Learning
+
+
+
+
+Electives that need to be designed and developed 
+
+Simulation and Modelling
+Data Visualization
+Graph Theory
+High Performance Computing
+Network Analysis and Modelling
+Introduction to Bioinformatics
+History of Data Science
+Data Science for Public Policy
+Data Sciences for Politics and Policymaking
+Sports Data Science
+
+
+
+
+Courses that are offered by other majors that can will be either cross listed with Data Science or can be used to satisfy pre-requisites
+
+Mathematical Methods – I & II (Physics) – can be used satisfy Linear Algebra and Calculus requirements.
+Basic Electronics (Physics)
+Quantum Computing (Physics)
+Monte Carlo Methods (Physics)
+Design and Analysis of Algorithms (Computer Science)
+Game Theory (Economics)
+Computational Methods (Physics)
+Econometrics -II (Economics)
+Supply Chain Management (Business Studies)
+Computer Systems (Computer Science)
+Algorithms of the Internet (Computer Science)
+Security: Technology, Privacy, and Ethics (Computer Science)
+Data Politics (Politics)
+
+
+
+
+
+
+
+
+
+
+
