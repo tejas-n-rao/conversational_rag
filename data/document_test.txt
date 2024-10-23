@@ -87,7 +87,7 @@ Courses in Core Over-arching:  Responsible AI
 REQUIRED COURSES …
 From the perspective of satisfying the degree requirements for this program, we classify courses into Required courses and Electives as follows.
 
-Required courses: The required courses for the Data Science discipline will form the technical foundations (i.e., core) of the Data Science major. The students are required to take 11 courses worth 44 credits in total, regardless of the major pursued (Single, Double, Capstone, No Capstone). The timeline for required courses is given below:
+Required courses: There are 11 required courses for the Data Science discipline. These courses will form the technical foundations (i.e., core) of the Data Science major. The students are required to take 11 courses worth 44 credits in total, regardless of the major pursued (Single, Double, Capstone, No Capstone). The timeline for required courses is given below:
 
 
 No courses will be offered in Trimester 1 and Trimester 2. The course schedule begins with Python for Data Science in Trimester 3. In Trimester 4, students take Introduction to Data Science and Mathematical Foundations of Data Science, followed by Introduction to Linear Algebra and Applied Statistics in Trimester 5. Trimester 6 covers Introduction to Calculus and Data Structures and Algorithms. In Trimester 7, students study Data Management and choose electives. Trimester 8 introduces Statistical Learning and Responsible AI, along with electives. Trimester 9 focuses on Machine Learning, with additional electives, leading to more electives and a Capstone project in Trimesters 11 and 12.
@@ -245,6 +245,7 @@ Linear Algebra Done Right, By Sheldon Axler, Third Edition, Springer, 2015.
 
 
 
+
 Data Structures and Algorithms Course: 
 Description of the “Data Structures and Algorithms” course: The “Data Structures and Algorithms” course is a 4-credit course. The “Data Structures and Algorithms” course is offered in Trimester 6. The “Data Structures and Algorithms” course will provide a rigorous introduction to elementary data structures and their analysis and applications to various computational problems in computer science. In addition, this course will introduce students to key algorithmic techniques for design and analysis of data structures for various problems that arise in the field of computer science. The course provides a broad overview of fundamental concepts involved in the design of algorithms and their complexity analysis.
 
@@ -332,11 +333,11 @@ Mathematical Statistics and Data Analysis by John A. Rice, Cengage 3rd Edition, 
 
 
 Introduction to Statistical Learning:
-Description: The 4 credit ‘Introduction to Statistical Learning’ course offered in trimester 8 is a hands-on introduction to tools and techniques in machine learning to model complex phenomena and solve problems in a variety of domains, including health care, medical diagnostics, image recognition, stock prediction, and sports data analytics. This course covers the following topics: (i) Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, model selection, and regularization; (ii) Classification: Logistic Regression, Linear Discriminant Analysis, and support vector machines; and (iv) Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques. This course will also introduce Python tools and libraries including scikit-learn, imblearn etc.
+Description of the Introduction to Statistical Learning course: The 4 credit ‘Introduction to Statistical Learning’ course offered in trimester 8 is a hands-on introduction to tools and techniques in machine learning to model complex phenomena and solve problems in a variety of domains, including health care, medical diagnostics, image recognition, stock prediction, and sports data analytics. This course covers the following topics: (i) Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, model selection, and regularization; (ii) Classification: Logistic Regression, Linear Discriminant Analysis, and support vector machines; and (iv) Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques. This course will also introduce Python tools and libraries including scikit-learn, imblearn etc.
 
-Prerequisite: Mathematical Foundations of Data Science – I, Introduction to Linear Algebra, Data Structures and Algorithms, Applied Statistics
+Prerequisites for the Introduction to Statistical Learning course: Mathematical Foundations of Data Science – I, Introduction to Linear Algebra, Data Structures and Algorithms, Applied Statistics
 
-Learning Outcomes: 
+Learning Outcomes of the Introduction to Statistical Learning course: 
 
 At the end of the course, the student should gain mastery over basic tools/concepts
 
@@ -345,9 +346,9 @@ Gain a fundamental understanding of how machine learning algorithms work, their 
 For effective analysis of computational complexity and accuracy of various machine learning models and algorithms employed while solving prediction/inference problems.
 Gain an in depth understanding on which models to employ for appropriate real-world problems
 
-Syllabus: Overview of Machine Learning: Supervised, Unsupervised and Semi-supervised learning; Introduction to Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, Confusion matrix, model selection and regularization with  hands-on projects for using these techniques to develop models for making predictions of stock prices; Overview of Classification Techniques: Logistic Regression, Linear Discriminant Analysis and support vector machines with hands-on project using publicly available datasets; Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques with hands-on projects.
+Syllabus of the Introduction to Statistical Learning course: Overview of Machine Learning: Supervised, Unsupervised and Semi-supervised learning; Introduction to Simple Linear Regression, Multiple Linear Regression, Training and Validation, standard error measures and analysis of model predictions, Confusion matrix, model selection and regularization with  hands-on projects for using these techniques to develop models for making predictions of stock prices; Overview of Classification Techniques: Logistic Regression, Linear Discriminant Analysis and support vector machines with hands-on project using publicly available datasets; Overview of Unsupervised Learning: Principal Component Analysis and Clustering techniques with hands-on projects.
 
-References:
+References textbooks for the Introduction to Statistical Learning course:
 An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, Springer Science+Business Media, LLC, part of Springer Nature 2013, ISBN: 978-1-4614-7138-7 
 Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurelion Geron, O’Reilly Media Inc.
 
@@ -355,11 +356,11 @@ Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow by Aurelion Ge
 
 
 Machine Learning:
-Description: The 4 credit ‘Machine Learning’ course offered in Trimester 9 is essentially is a hands-on introduction to various types of neural networks used in machine learning and decision trees. Topics include Decision Trees, Bagging Random Forests and Boosting, Introduction to Basic Neural Networks, Activation Functions, Deep Neural Networks (Convolutional Neural Networks (CNN), Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks (GAN), and transformer architectures with applications to problems in Image Processing and Computer Vision. This course will also introduce Python tools and libraries including scikit-learn, Keras, TensorFlow, and PyTorch.
+Description of the Machine Learning Course: The 4 credit ‘Machine Learning’ course offered in Trimester 9 is essentially is a hands-on introduction to various types of neural networks used in machine learning and decision trees. Topics include Decision Trees, Bagging Random Forests and Boosting, Introduction to Basic Neural Networks, Activation Functions, Deep Neural Networks (Convolutional Neural Networks (CNN), Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks (GAN), and transformer architectures with applications to problems in Image Processing and Computer Vision. This course will also introduce Python tools and libraries including scikit-learn, Keras, TensorFlow, and PyTorch.
 
-Prerequisites of Machine Learning: Introduction to Statistical Learning, Data Structures and Algorithms
+Prerequisites of the Machine Learning Course: Introduction to Statistical Learning, Data Structures and Algorithms
 
-Learning Outcomes:
+Learning Outcomes of the Machine Learning Course:
 
 At the end of the course, the student should gain mastery over:
 
@@ -368,9 +369,9 @@ Mastery in employing various statistics and optimization methods in the design, 
 Gain a deep understanding of how neural networks and decision trees solve real problems
 Mastery in solving interdisciplinary problems by effective problem formulation, problem definition, model design, choice of algorithms, analysis, and implementation.
 
-Syllabus: Overview of Deep Learning, Basics of Imaging and Image Classification, Overview of supervised and unsupervised learning, Optimization Methods and Regularization, Introduction to Decision Trees, Bagging Random Forests and Boosting with hands-on project on classification of data points through publicly available data sets. Deep Learning Pipeline and relevant tools like TensorFlow and Keras, Datasets for image classification, Neural Network Basics, Convolution Neural Networks, Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks, and Transformers; Training and Testing these networks. 
+Syllabus of the Machine Learning Course: Overview of Deep Learning, Basics of Imaging and Image Classification, Overview of supervised and unsupervised learning, Optimization Methods and Regularization, Introduction to Decision Trees, Bagging Random Forests and Boosting with hands-on project on classification of data points through publicly available data sets. Deep Learning Pipeline and relevant tools like TensorFlow and Keras, Datasets for image classification, Neural Network Basics, Convolution Neural Networks, Recurrent Neural Networks (LSTM), Autoencoders, Generative Adversarial Networks, and Transformers; Training and Testing these networks. 
 
-References: 
+Reference textbooks for the Machine Learning course: 
 Deep Learning with Python by Francois Chollet, Manning Publications, ISBN: 9781617294433
 Deep Learning for Computer Vision Starter Bundle by Adrian Rosebrock, Pyimagesearch, 2017
 
@@ -385,19 +386,19 @@ Deep Learning for Computer Vision Starter Bundle by Adrian Rosebrock, Pyimagesea
 
 
 Data Management:
-Description: The 4 credit ‘Data Management’ course offered in Trimester 7, focuses on database system concepts and architectures, various data models, Database Design using ER models, UML, Relational Algebra etc. Database as well as web-based programming using SQL, PHP etc., will be covered. It also introduces theoretical concepts on database design and normalization, data storage with the corresponding file structures based on indexing using B-Trees, B+-Trees etc. Further, transaction processing and concurrency control principles will be introduced. Some applications on Information Retrieval and Data Warehousing will be covered.
+Description of the Data Management Course: The 4 credit ‘Data Management’ course offered in Trimester 7, focuses on database system concepts and architectures, various data models, Database Design using ER models, UML, Relational Algebra etc. Database as well as web-based programming using SQL, PHP etc., will be covered. It also introduces theoretical concepts on database design and normalization, data storage with the corresponding file structures based on indexing using B-Trees, B+-Trees etc. Further, transaction processing and concurrency control principles will be introduced. Some applications on Information Retrieval and Data Warehousing will be covered.
 
-Prerequisite: Data Structures and Algorithms.
+Prerequisites for the Data Management Course: Data Structures and Algorithms.
 
-Learning Outcomes: 
+Learning Outcomes of the Data Management Course: 
 
 A good understanding of Database design, SQL, Transactions, Data pipelines, tools and techniques for creating and analysing data pipelines, and visualization tools
 Ability to build and populate a data warehouse, write aggregation queries, create materialized query tables, and create an analytics dashboard.
 
-Syllabus: The course has the following modules: (1) Introduction to databases, their design and ER modelling. (2) Database programming using SQL and PHP (3) Data Storage using file structures and indexing based on B-Trees, B+-Trees etc. (4) Transaction Management and Concurrency Control (5) Applications and case studies: Information Retrieval systems, search engines, spatial and multimedia databases, Data warehousing and Data Mining. 
+Syllabus of the Data Management Course: The course has the following modules: (1) Introduction to databases, their design and ER modelling. (2) Database programming using SQL and PHP (3) Data Storage using file structures and indexing based on B-Trees, B+-Trees etc. (4) Transaction Management and Concurrency Control (5) Applications and case studies: Information Retrieval systems, search engines, spatial and multimedia databases, Data warehousing and Data Mining. 
 
 
-References: 
+Reference Textbooks for the Data Management Course: 
 Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey Ullman, and Jennifer Widom, Pearson; 2nd edition (4 September 2008), ISBN-13  :  978-0131873254. 
 Fundamentals of Data Engineering: Plan and Build Robust Data Systems by Joe Reis and Matt Housley, Shroff/O'Reilly; First Edition (27 June 2022), ISBN-13  :  978-9355421548.
 Fundamentals Of Data Warehousing by M Jarke, Springer India Private Ltd, 2008, ISBN: 9788181289148
@@ -409,12 +410,12 @@ Fundamentals of Database System Concepts, 6th Edition, by Elmasri and Navathe, A
 
 
 Responsible Artificial Intelligence:
-Description: Recent advances in computing and information technologies, including hardware, software, databases, networks and communications have enabled the commercialization of many applications of Artificial Intelligence. Specifically, in the case of Supervised Learning, Deep Neural Networks and related algorithms have been able to achieve or even surpass human-like accuracy in applications like face recognition, voice recognition, automated driving, language translation, etc. This has given rise to multiple deployments of AI-based applications not only in the private sector but also in the Government. These deployments in areas such as recidivism prediction, algorithmic online ad targeting, drug addiction risk prediction, criminal intentionality detection in early stage shoplifting, etc. promise the effectiveness and efficiency of evidence-based decision-making. This early success has spurred rapid and frantic development of solutions using AI/ML and associated technologies without adequate safeguards and regulations. However, of late, multiple cases of bias and unfairness have been reported in the decisions made by AI/ML based algorithms, thus, raising ethical questions. In addition, AI/ML-based decisions cannot be explained easily due to their “black-box” nature. Impenetrability of AI/ML algorithmic decisions has reduced “trust” in the very algorithms that promised so much. This has spurred a call for Explainable AI (XAI) – AI-based decision-making that incorporates the notions of fairness, accountability and transparency.
+Description of the Responsible Artifical Intelligence Course: The Responsible Artifical Intelligence Course is a 4-credit course that is offered in Trimester 8. Recent advances in computing and information technologies, including hardware, software, databases, networks and communications have enabled the commercialization of many applications of Artificial Intelligence. Specifically, in the case of Supervised Learning, Deep Neural Networks and related algorithms have been able to achieve or even surpass human-like accuracy in applications like face recognition, voice recognition, automated driving, language translation, etc. This has given rise to multiple deployments of AI-based applications not only in the private sector but also in the Government. These deployments in areas such as recidivism prediction, algorithmic online ad targeting, drug addiction risk prediction, criminal intentionality detection in early stage shoplifting, etc. promise the effectiveness and efficiency of evidence-based decision-making. This early success has spurred rapid and frantic development of solutions using AI/ML and associated technologies without adequate safeguards and regulations. However, of late, multiple cases of bias and unfairness have been reported in the decisions made by AI/ML based algorithms, thus, raising ethical questions. In addition, AI/ML-based decisions cannot be explained easily due to their “black-box” nature. Impenetrability of AI/ML algorithmic decisions has reduced “trust” in the very algorithms that promised so much. This has spurred a call for Explainable AI (XAI) – AI-based decision-making that incorporates the notions of fairness, accountability and transparency.
 
-Learning Outcomes: 
+Learning Outcomes of the Responsible Artifical Intelligence Course:: 
 One of the main objectives of this course is to impart students with sufficient knowledge so that they can critically think about any AI/ML based decision-making algorithm and identify potential problem sources. The problems can then be rectified before the solution is deployed in any real-world application.
 
-Syllabus:
+Syllabus of the Responsible Artifical Intelligence Course::
 
 This course intends to equip the participant, the present and future managers, with an understanding of the ethical and other related dimensions in the field of algorithmic and AI/ML-based decision-making. Some of the objectives of this course include:
 1. Understanding the notions of fairness, bias, accountability and trust as applicable to algorithmic decision-making.  
@@ -422,7 +423,7 @@ This course intends to equip the participant, the present and future managers, w
 3. Understanding the sources of bias, discrimination, lack of transparency, fairness and trust in algorithms
 4. Strategies to mitigate bias and unfairness in algorithms
 
-Prerequisites:  None
+Prerequisites for the Responsible Artifical Intelligence Course::  None
 
 
 
@@ -447,11 +448,11 @@ Electives that are offered by other programs that will be either cross-listed or
 
 New Proposed Electives
 Big Data Analytics:
-Description: The 4 credit ‘Big Data Analytics’ course offered in Trimester 9 will introduce concepts and techniques for managing and analysing large data sets for data discovery and modelling. It will focus on understanding unstructured and semi-structured data sets, collecting and cleaning data in multiple formats from various sources, big data computer system, storage, processing, analysis, visualization, and applications. State-of-the-art computational frameworks for big data analysis, distributed file systems, Apache Spark and PySpark along with the corresponding data processing languages like Hive, Pig, NoSQL etc., will be introduced. Further, case studies like Text Analytics to retrieve relevant text from unstructured, semi-structured or structured text/documents will also be focused.
+Description of the Big Data Analytics course: The 4 credit ‘Big Data Analytics’ course offered in Trimester 9 will introduce concepts and techniques for managing and analysing large data sets for data discovery and modelling. It will focus on understanding unstructured and semi-structured data sets, collecting and cleaning data in multiple formats from various sources, big data computer system, storage, processing, analysis, visualization, and applications. State-of-the-art computational frameworks for big data analysis, distributed file systems, Apache Spark and PySpark along with the corresponding data processing languages like Hive, Pig, NoSQL etc., will be introduced. Further, case studies like Text Analytics to retrieve relevant text from unstructured, semi-structured or structured text/documents will also be focused.
 
-Prerequisite: Data Structures and Algorithms
+Prerequisites of the Big Data Analytics Course: Data Structures and Algorithms
 
-Learning Outcomes: 
+Learning Outcomes of the Big Data Analytics course: 
 
 Upon completion of this course, students will be able to do the following:
 To explore large datasets for data discovery and modelling, understand distributed file systems, map-reduce and Hadoop technology for organizing large data sets efficiently.
@@ -460,10 +461,10 @@ To become competent in recognizing challenges dealing with very large volumes of
 Students will build and maintain reliable, scalable, distributed systems with Apache Hadoop, MapReduce, Pig, Hive and NoSQL frameworks.
 Students will develop ability to perform data analytics and visualization for a real life and medium to large scale problem.
 Students will be able to design MapReduce solutions for real world big data problems.
-Syllabus: This will be a hands-on course that includes Machine Learning Tools and Techniques in the context of Big Data and consists of the following 4 modules: (1) An overview of Big Data Analytics and Distributed File Systems (2) Introduction to Apache Spark and PySpark (3) Introduction to big data processing technologies like Pig, Hive, NoSQL etc. (4) Case studies: Text Analytics and Video Analytics.  
+Syllabus of the Big Data Analytics course: This will be a hands-on course that includes Machine Learning Tools and Techniques in the context of Big Data and consists of the following 4 modules: (1) An overview of Big Data Analytics and Distributed File Systems (2) Introduction to Apache Spark and PySpark (3) Introduction to big data processing technologies like Pig, Hive, NoSQL etc. (4) Case studies: Text Analytics and Video Analytics.  
 
   
-References: 
+Reference Textbooks for the Big Data Analytics: 
 Nathan Marz and James Warren, Big Data: Principles and Best Practices of Scalable Real-Time Data Systems, First Edition, Manning Publications, 2015.
 Seema Acharya, Subhasini Chellappan, Big Data Analytics, Wiley 2015.
 Tom White, Hadoop: The Definitive Guide, Fourth Edition, O’reily Media, 2015.
@@ -473,20 +474,20 @@ Anand Rajaraman and Jeffrey David Ulman, Mining of Massive Datasets, Cambridge U
 
 
 Computer Vision:
-Description: The 4-credit ‘Computer Vision’ course offered in Trimester 9 is meant to cover recent advances in the domain of computer vision. The course will gradually meander from low-level computer vision to high-level concepts. It will introduce traditional computer vision topics like filters, local image features and texture descriptors, then move to mid-level vision covering visual matching through Hough transform, and optical flow. It ends up in high-level vision tasks like segmentation, tracking, classification, detecting objects, and person recognition.
+Description of the Computer Vision Course: The 4-credit ‘Computer Vision’ course offered in Trimester 9 is meant to cover recent advances in the domain of computer vision. The course will gradually meander from low-level computer vision to high-level concepts. It will introduce traditional computer vision topics like filters, local image features and texture descriptors, then move to mid-level vision covering visual matching through Hough transform, and optical flow. It ends up in high-level vision tasks like segmentation, tracking, classification, detecting objects, and person recognition.
 
-Prerequisite: Machine Learning
+Prerequisites for the Computer Vision Course: Machine Learning
 
-Learning Outcomes: 
+Learning Outcomes of the Computer Vision Course: 
 
 Finding known models and applying them to applications.
 Use low and mid-level algorithms to analyse and extract structural information.
 Develop applications in computer vision like classification, semantic segmentation, tracking, person identification.
 Students will be able to learn how to work with large datasets including parallelism, Hadoop, Pig, Hive, Map Reduce Framework etc.
 
-Syllabus: The following are the tentative list of topics that are likely to be covered in this course: Human Vision and Colour perception, Linear filters, local image features, motion perception, image segmentation, image registration, image classification, object recognition and person recognition.
+Syllabus of the Computer Vision Course: The following are the tentative list of topics that are likely to be covered in this course: Human Vision and Colour perception, Linear filters, local image features, motion perception, image segmentation, image registration, image classification, object recognition and person recognition.
 
-References: 
+Reference Textbooks for the Computer Vision Course: 
 Szeliski (2010), "Computer Vision: Algorithms and Applications", 2nd edition, Springer, 2022
 Rafael C. Gonza Lez & Richard E. Woods (2018), “Digital Image Processing”, 4th Edition, Pearson Education, 2018
 Forsyth & Ponce (2011), "Computer Vision: A modern approach", 2nd Ed., Pearson 2011
@@ -504,8 +505,8 @@ Forsyth & Ponce (2011), "Computer Vision: A modern approach", 2nd Ed., Pearson 2
 
 
 Optimisation for Data Science:
-Description: The 4 Credit ‘Optimisation for Data Science’ course offered in Trimester 10 focuses on the introduction to optimization theory, single and multi-variate calculus. It also focuses on convex optimization, linear programming, formulation of primal and dual problems. Unconstrained and constrained optimization techniques like gradient descent methods, lagrange multipliers etc., will be covered. Further, it focuses on the applications and case studies on optimization problems in Engineering, Finance, Machine learning, Data Science etc.
-Course Outcomes:
+Description of the Optimisation of Data Science course: The 4 Credit ‘Optimisation for Data Science’ course offered in Trimester 10 focuses on the introduction to optimization theory, single and multi-variate calculus. It also focuses on convex optimization, linear programming, formulation of primal and dual problems. Unconstrained and constrained optimization techniques like gradient descent methods, lagrange multipliers etc., will be covered. Further, it focuses on the applications and case studies on optimization problems in Engineering, Finance, Machine learning, Data Science etc.
+Outcomes of the Optimisation of Data Science course:
 
 Students will be able to 
 
@@ -514,11 +515,11 @@ Understand the unconstrained and constrained optimization problems.
 Implement numerical methods, gradient descent methods and its variants.
 Design and optimize cost functions used in various domains/fields like Engineering, Finance, Machine Learning, Deep Learning, Data Science etc.
 
-Syllabus:
+Syllabus for the Optimisation of Data Science course:
 
 The course has the following contents: (1) Introduction to Optimization theory, single and multi-variate Calculus (2) Convex optimization, Linear Programming, Primal and Dual problems, Simplex method and Duality theory (3) Unconstrained optimization: Least squares problems, Numerical Methods, Gradient Descent and Newton methods, accelerated gradient approaches: Heavy Ball method and Nesterov acceleration. (4) Constrained optimization: Lagrange multipliers, Karush-Kuhn-Tucker conditions, Weak and Strong duality (5) Applications and Case studies on optimization problems in Engineering, Finance, Machine Learning and Data Science.
 
-Text Books:
+Reference Textbooks for Optimisation of Data Science course:
 
 Convex Optimization by Stephen Boyd and Lieven Vandenberghe, First Edition, Cambridge University Press, 2004.
 
@@ -528,7 +529,7 @@ Optimization for Machine Learning by  Sra Suvrit, Nowozin Sebastian and Wright S
 
 Algorithms for Optimization by Mykel J. Kochenderfer and Tim A. Wheeler, MIT Press, 2019.
 
- Prerequisites: Machine Learning
+ Prerequisite for the Optimisation of Data Science course: Machine Learning
 
 
 
@@ -540,9 +541,9 @@ Algorithms for Optimization by Mykel J. Kochenderfer and Tim A. Wheeler, MIT Pre
 
 
 Natural Language Processing:
-Description: The 4-credit ‘Natural Language Processing’ course offered in Trimester 10 provides a theoretical and methodological introduction to Natural Language Processing (NLP). It focuses on various NLP aspects like basic language models, part-of-speech (POS) tagging, syntactic parsing and semantic analysis. Statistical and Machine Learning approaches like Hidden Markov Models, Recurrent Neural Networks etc., for NLP tasks/applications like Machine Translation, Sentiment Analysis, Question Answering, Information Extraction etc., will be covered. It also focuses on the implementation and hands-on experience of the above algorithms using NLP toolkits, Keras and Tensorflow libraries in Python. 
+Description of the Natural Language Processing Course: The 4-credit ‘Natural Language Processing’ course offered in Trimester 10 provides a theoretical and methodological introduction to Natural Language Processing (NLP). It focuses on various NLP aspects like basic language models, part-of-speech (POS) tagging, syntactic parsing and semantic analysis. Statistical and Machine Learning approaches like Hidden Markov Models, Recurrent Neural Networks etc., for NLP tasks/applications like Machine Translation, Sentiment Analysis, Question Answering, Information Extraction etc., will be covered. It also focuses on the implementation and hands-on experience of the above algorithms using NLP toolkits, Keras and Tensorflow libraries in Python. 
 
-Outcomes:
+Outcomes of the Natural Language Processing Course:
 
 Students will be able to:
 Understand how machines analyze and interpret natural language.
@@ -550,18 +551,18 @@ Understand syntactic and semantic approaches in NLP.
 Apply statistical and machine learning approaches like Hidden Markov Models, Deep Neural Networks etc., for various NLP tasks like Natural Language Generation, Question Answering and Machine Translation.
 Implement NLP algorithms using NLP toolkits, Keras/Tensorflow libraries in Python.
 
-Syllabus:
+Syllabus for the Natural Language Processing Course:
 
 The course has the following contents: (1) Introduction to Language Models: N-gram models and parameter estimation (2) Part of Speech (POS) tagging, syntactic parsing and semantic analysis (3) Statistical and Machine Learning/Deep Learning approaches for NLP: Hidden Markov Models, Unsupervised Methods and Recurrent Neural Networks (4) NLP Applications: Text Classification, Text Generation and Summarization, Information Extraction: Named entity recognition and relation extraction, Question Answering and Chatbots, Machine Translation and Text to Speech (TTS). 
 
-Textbooks:
+Reference Textbooks for the Natural Language Processing Course:
 
 Jurafsky, David, and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. Prentice-Hall, 2000.
 
 Manning, Christopher D., and Hinrich Schütze. Foundations of Statistical Natural Language Processing. Cambridge, MIT Press,1999.
 
 Rajesh Arumugam and Rajalingappaa Shanmugamani. Hands-On Natural Language Processing with Python. Packt Publishing, 2018.  
- Prerequisites: Machine Learning
+ Prerequisite for the the Natural Language Processing Course: Machine Learning
 
 
 
@@ -582,7 +583,7 @@ Sports Data Science
 
 
 
-Courses that are offered by other majors that can will be either cross listed with Data Science or can be used to satisfy pre-requisites
+Courses that are offered by other majors that maybe either cross listed with Data Science or can be used to satisfy pre-requisites
 
 Mathematical Methods – I & II (Physics) – can be used satisfy Linear Algebra and Calculus requirements.
 Basic Electronics (Physics)
