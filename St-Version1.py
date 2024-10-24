@@ -40,9 +40,9 @@ index = pc.Index(index_name)
 embedding_model = OpenAIEmbeddings(api_key=os.getenv("OPENAI_API_KEY")) # load.env
 
 # function to retrieve relevant chunks from pinecone vector database
-def retrieve_from_pinecone(query, top_k=5): # top_k indicates how many chunks we want to retrive from database
+def retrieve_from_pinecone(query, top_k=10): # top_k indicates how many chunks we want to retrive from database
     query_embedding = embedding_model.embed_query(query)
-    results = index.query(vector=[query_embedding], top_k=top_k, include_metadata=True) # querying database
+    results = index.query(vector=[query_embedding], top_k=top_k, include_metadata=True) # querying database for 10 relevant chunks
     
     relevant_chunks = [match["metadata"].get("text") for match in results["matches"]] 
 
