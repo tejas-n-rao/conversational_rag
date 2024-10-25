@@ -1,8 +1,8 @@
-python-dotenv
-pinecone
-langchain_openai
-langchain_core
-langchain_community
-langchain_experimental
-langgraph
-streamlit
+langchain_community==0.3.3
+langchain_core==0.3.12
+langchain_experimental==0.3.2
+langchain_openai==0.2.3
+langgraph==0.2.39
+pinecone==5.3.1
+python-dotenv==1.0.1
+streamlit==1.39.0
