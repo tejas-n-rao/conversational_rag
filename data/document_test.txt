@@ -444,6 +444,67 @@ New electives that need to be designed and developed: 8
 Electives that are offered by other programs that will be either cross-listed or used to satisfy prerequisites: 13
 
 
+Previously Offered Electives:
+Database Management Systems
+Description of the Database Management Systems course: The Database Management Systems course is offered in Trimester 4 and is a 4-credit course. This course introduces the core principles and techniques for designing and implementing relational database systems. Students will gain both theoretical knowledge and practical skills to efficiently organize, maintain, and retrieve information from a DBMS. They will learn to design data models using Entity-Relationship (ER) diagrams and apply normalization principles to enhance data integrity. The course covers SQL proficiency, enabling students to write complex queries for data manipulation and definition. Additionally, students will explore transaction management and concurrency control to ensure data consistency.
+
+Prerequisites for the Database Management Systems course: None; Though the course has no prerequisites, some programming experience is recommended.
+
+Learning Outcomes for the Database Management Systems course: By the end of the Database Management course, the student will be able to
+Describe relational and object-oriented databases.
+Create, maintain, and manipulate a relational database using SQL.
+Understand and apply the Entity-Relationship (ER) model and normalization techniques for database design.
+Get familiarity with the basic issues of transaction processing and concurrency control.
+
+Syllabus of the Database Management Systems Textbook: Theory: Database System Concepts - Data Models, Schemas, Instances; Database System Architecture - Three-Level Architecture and Data Independence; Database Languages and Interfaces, Centralized and Client/Server Architectures for DBMS; Data Modeling - Entity-Relationship (ER) Diagram, Entities, Attributes; Entity sets – Relationships and Relationship sets. Normalization for Relational Databases and functional dependencies, First, Second, and third normal forms – dependency preservation, Boyee/Codd normal form; Transaction Processing-Implementation of Atomicity and Durability – Concurrent –Executions – Serializability- Recoverability – Implementation of Isolation – Testing for serializability.
+
+Lab: MySQL Installation and Basic Commands to Access Database; DDL and DML Commands with Examples and Key Constraints; Aggregate Functions; String, Date, mathematical functions, and subqueries; Joins; Views; PL/SQL; Functions; Exception Handling in Databases; Triggers and Cursors; Query and revision of components.
+
+Reference Textbooks for the Database Management Systems Course:
+
+Database System Concepts, Silberschatz, Korth, McGraw Hill, Seventh Edition.
+Database Management Systems, Raghurama Krishnan, Johannes Gehrke, TATA McGraw-Hill 3rd Edition.
+
+
+
+Digitalization and Society: Understanding Risks, Promoting Justice:
+Description of the Digitalization and Society: Understanding Risks, Promoting Justice course: In an era dominated by digital technologies, which have seemingly integrated themselves into every realm of life and have been taken up by industry, business, policymakers, civil society alike, understanding the impacts of digitalization on society is paramount. This course delves into the complexities of digitalization, exploring both its risks and opportunities while emphasising the pursuit of societal justice through informed design and ethical considerations. It encourages students to go beyond the usual narratives of the benefits of digitalization and ask critical questions which can help shape it in ways that recenter the emancipation of diverse types of end users. The course draws primarily from academic work in the fields of Science and Technology Studies (STS), Critical Social Science, Feminist Posthumanities and Media Studies. This course offers a unique opportunity to explore cutting-edge issues at the intersection of technology, society, and ethics using ‘real world’ case studies from India, Europe, the US and beyond. By gaining insights into the complex societal impacts of digitalization, students will be equipped to navigate challenges on the topic in both academic and industry settings. Whether pursuing further research or embarking on a career in technology, this course aims to provide a solid foundation for understanding and promoting justice in the digital age.
+
+Learning Objectives of the Digitalization and Society: Understanding Risks, Promoting Justice course:
+Identify and define key concepts in the broad field of Science and Technology Studies (STS) 
+Apply STS concepts - particularly the coproduction of technology and society- to critically analyze the societal impacts of digital technologies 
+Describe the key ethical concerns surrounding the integration and mainstreaming of AI technologies 
+Articulate the critical benefits versus risks of digitalization to certain crucial aspects of social well-being including finance, healthcare, social welfare etc. 
+Design digital technology solutions from a social justice perspective keeping  positive justice outcomes for marginalized social groups (based on genders, ethnicity, caste, economic class etc.) in mind
+Learning Outcomes of the Digitalization and Society: Understanding Risks, Promoting Justice course:
+ (i) Critical Analysis of Risks: Students will examine the risks inherent in the digitalization of society, exploring concepts such as data capitalism, datafication, surveillance, and techno-optimism. Through lectures, readings, and discussions, they will develop a nuanced understanding of the potential pitfalls and challenges posed by the widespread adoption of digital technologies.
+(ii) Empowerment of Marginalized Groups: Focusing on the role of data-based technologies in empowering marginalized communities, students will explore concepts of data justice, design justice, and transformative machine learning. By critically evaluating and engaging with real-worldexamples,theywillassessthe potentialfordata-driventechnologiestofostersocial inclusion and equity.
+(iii) Ethical Design and User Justice: This course goes beyond identifying risks to actively promote ethical design practices that prioritize user justice. Students will examine the ethical considerations surrounding data-based technologies, including algorithmic transparency, accountability, and interdisciplinary collaboration. Through group work on case studies provided by the instructors, they will develop guidelines and principles for designing data-driven technologies and implementing them not only to mitigate risks but also to advance societal well-being.
+
+Pre-requisites of the Digitalization and Society: Understanding Risks, Promoting Justice course: None, but a basic familiarity with concepts in technology, society, or ethics is beneficial.
+
+Syllabus for the Digitalization and Society: Understanding Risks, Promoting Justice course: 
+Introduction: Key concepts from STS – tackling topics such as the co-production of technology and society, challenging the notion of politically ‘neutral’ technology, and looking at historical examples of simple technology (such as bicycles) through an STS lens. 
+History of digitalization: Examining the origins of digitalization, tracing its history to the first digitalization efforts in North America and their impacts on society. Linking the history to the contemporary trends in digitalization across geographical contexts – with a critical look at the benefits and risks associated with technology rollouts like Aadhaar. 
+Data Capitalism and Coloniality: Investigating the common phrase ‘Data is the new oil’ – how do capitalist industries based in the BigTech arena in Silicon Valley benefit from the global waves of digitalization? How are their policies reminiscent of the colonial practices of European powers when they exploited Asia, Africa, and Latin America? What can we learn about the data-based industry from this comparison?
+Algorithmic Injustice: Exploring examples of injustice to marginalized groups such as women, people of color, people living in poverty, people reliant on social benefits etc. through the integration of algorithms into public services and the automation of decision making. Drawing from cases in the US, Europe, and Singapore.
+Critical Ethics of Artificial Intelligence (AI): Situating AI in the broader trends of digitalization of society and reflecting on the future possibilities enabled by AI. Reflecting on controversies surrounding recent AI models such as ChatGPT using both scholarly work and articles from popular media. Exploring the ethics of AI based on aformentioned examples — reflecting on privacy, security, surveillance, deep fakes, polarization, impacts on human creativity, erosion of human rights etc.
+Design Justice and Emancipatory AI: What would AI technologies look like if they were designed from the perspectives of neglected user groups? What must change in the data collection practices and machine learning algorithms in order to enable user emancipation? How can we challenge the hegemony of the developers of AI?
+Alternative visions for a digital future: Recapitulation of the course and a workshop to examine various alternative futures of a digital future. What could and what SHOULD digitalization of society look like?
+
+Case Study: Designing fair and responsible data-driven solutions Instructors provide case studies and divide students into groups. The case study presents a real world digitalization plan in arenas such as energy, healthcare, law etc., and ask students to design a digitalization risk assessment outlining the key risks and key benefits, key challenges in developing digital solutions, and key guidelines to prevent risks and prevent societal harm while implementing the plan.
+
+No such Refrence Text books for the Digitalization and Society: Understanding Risks, Promoting Justice course, but recommended readings are: 
+Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford.
+Your Computer Is on Fire by Thomas S. Mullaney, Benjamin Peters, Mar Hicks and Kavita Philip (2021) 
+Science, Technology, and society : An Introduction by Giampietro Goboand Valentina Marcheselli (2023) 
+Race after Technology by Ruha Benjamin(2019) 
+Data Feminism by Catherine D’Ignazio and Lauren F. Klein(2020)
+Automating Inequality : How High-Tech Tools Profile, Police, and Punish the Poor  by Virginia Eubanks (2017)
+The Social Context of Technological Experiences: Three Studies from India by Anant Kamath (2023)
+
+
+
 
 
 New Proposed Electives
