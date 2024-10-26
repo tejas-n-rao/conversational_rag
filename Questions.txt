@@ -10,10 +10,6 @@ When is Python for Data Science taught?
 
 What are the prerequisites for Python for Data Science?
 
-Which courses does Python for Data Science serve as a prerequisite for?
-
-
-
 What does the Introduction to Data Science course teach me?
 
 How many credits is the Introduction to Data Science course?
@@ -23,10 +19,6 @@ What textbook will the Introduction to Data Science course refer to? List them i
 When is Introduction to Data Science taught?
 
 What are the prerequisites for Introduction to Data Science?
-
-Which courses does Introduction to Data Science serve as a prerequisite for?
-
-
 
 What does the Applied Statistics course teach me?
 
@@ -38,10 +30,6 @@ When is Applied Statistics taught?
 
 What are the prerequisites for Applied Statistics?
 
-Which courses does Applied Statistics serve as a prerequisite for?
-
-
-
 What does the Statistical Learning course teach me?
 
 How many credits is the Statistical Learning course?
@@ -51,10 +39,6 @@ What textbook will the Statistical Learning course refer to? List them in bullet
 When is Statistical Learning taught?
 
 What are the prerequisites for Statistical Learning?
-
-Which courses does Statistical Learning serve as a prerequisite for?
-
-
 
 What does the Machine Learning course teach me?
 
@@ -66,10 +50,6 @@ When is Machine Learning taught?
 
 What are the prerequisites for Machine Learning?
 
-Which courses does Machine Learning serve as a prerequisite for?
-
-
-
 What does the Mathematical Foundations of Data Science - I course teach me?
 
 How many credits is the Mathematical Foundations of Data Science - I course?
@@ -79,10 +59,6 @@ What textbook will the Mathematical Foundations of Data Science - I course refer
 When is Mathematical Foundations of Data Science - I taught?
 
 What are the prerequisites for Mathematical Foundations of Data Science - I?
-
-Which courses does Mathematical Foundations of Data Science - I serve as a prerequisite for?
-
-
 
 What does the Introduction to Linear Algebra course teach me?
 
@@ -94,10 +70,6 @@ When is Introduction to Linear Algebra taught?
 
 What are the prerequisites for Introduction to Linear Algebra?
 
-Which courses does Introduction to Linear Algebra serve as a prerequisite for?
-
-
-
 What does the Introduction to Calculus course teach me?
 
 How many credits is the Introduction to Calculus course?
@@ -108,10 +80,6 @@ When is Introduction to Calculus taught?
 
 What are the prerequisites for Introduction to Calculus?
 
-Which courses does Introduction to Calculus serve as a prerequisite for?
-
-
-
 What does the Data Structures and Algorithms course teach me?
 
 How many credits is the Data Structures and Algorithms course?
@@ -121,10 +89,6 @@ What textbook will the Data Structures and Algorithms course refer to? List them
 When is Data Structures and Algorithms taught?
 
 What are the prerequisites for Data Structures and Algorithms?
-
-Which courses does Data Structures and Algorithms serve as a prerequisite for?
-
-
 
 What does the Data Management course teach me?
 
@@ -138,8 +102,6 @@ What are the prerequisites for Data Management?
 
 Which courses does Data Management serve as a prerequisite for?
 
-
-
 What does the Responsible AI course teach me?
 
 How many credits is the Responsible AI course?
@@ -149,10 +111,6 @@ What textbook will the Responsible AI course refer to? List them in bullet point
 When is Responsible AI taught?
 
 What are the prerequisites for Responsible AI?
-
-Which courses does Responsible AI serve as a prerequisite for?
-
-
 
 What does the Big Data Analytics course teach me?
 
@@ -164,10 +122,6 @@ When is Big Data Analytics taught?
 
 What are the prerequisites for Big Data Analytics?
 
-Which courses does Big Data Analytics serve as a prerequisite for?
-
-
-
 What does the Computational Methods course teach me?
 
 How many credits is the Computational Methods course?
@@ -177,10 +131,6 @@ What textbook will the Computational Methods course refer to? List them in bulle
 When is Computational Methods taught?
 
 What are the prerequisites for Computational Methods?
-
-Which courses does Computational Methods serve as a prerequisite for?
-
-
 
 What does the Computer Vision course teach me?
 
@@ -192,10 +142,6 @@ When is Computer Vision taught?
 
 What are the prerequisites for Computer Vision?
 
-Which courses does Computer Vision serve as a prerequisite for?
-
-
-
 What does the Data Science for Public Policy course teach me?
 
 How many credits is the Data Science for Public Policy course?
@@ -205,10 +151,6 @@ What textbook will the Data Science for Public Policy course refer to? List them
 When is Data Science for Public Policy taught?
 
 What are the prerequisites for Data Science for Public Policy?
-
-Which courses does Data Science for Public Policy serve as a prerequisite for?
-
-
 
 What does the Data Visualization course teach me?
 
@@ -220,23 +162,15 @@ When is Data Visualization taught?
 
 What are the prerequisites for Data Visualization?
 
-Which courses does Data Visualization serve as a prerequisite for?
+What does the Machine Learning course teach me?
 
+How many credits is the Machine Learning course?
 
+What textbook will the Machine Learning course refer to? List them in bullet points.
 
-What does the Deep Learning course teach me?
+When is Machine Learning taught?
 
-How many credits is the Deep Learning course?
-
-What textbook will the Deep Learning course refer to? List them in bullet points.
-
-When is Deep Learning taught?
-
-What are the prerequisites for Deep Learning?
-
-Which courses does Deep Learning serve as a prerequisite for?
-
-
+What are the prerequisites for Machine Learning?
 
 What does the Econometrics course teach me?
 
@@ -248,10 +182,6 @@ When is Econometrics taught?
 
 What are the prerequisites for Econometrics?
 
-Which courses does Econometrics serve as a prerequisite for?
-
-
-
 What does the Graph Theory course teach me?
 
 How many credits is the Graph Theory course?
@@ -261,10 +191,6 @@ What textbook will the Graph Theory course refer to? List them in bullet points.
 When is Graph Theory taught?
 
 What are the prerequisites for Graph Theory?
-
-Which courses does Graph Theory serve as a prerequisite for?
-
-
 
 What does the High-Performance Computation course teach me?
 
@@ -276,10 +202,6 @@ When is High-Performance Computation taught?
 
 What are the prerequisites for High-Performance Computation?
 
-Which courses does High-Performance Computation serve as a prerequisite for?
-
-
-
 What does the History of Data Science course teach me?
 
 How many credits is the History of Data Science course?
@@ -289,10 +211,6 @@ What textbook will the History of Data Science course refer to? List them in bul
 When is History of Data Science taught?
 
 What are the prerequisites for History of Data Science?
-
-Which courses does History of Data Science serve as a prerequisite for?
-
-
 
 What does the Natural Language Processing course teach me?
 
@@ -304,10 +222,6 @@ When is Natural Language Processing taught?
 
 What are the prerequisites for Natural Language Processing?
 
-Which courses does Natural Language Processing serve as a prerequisite for?
-
-
-
 What does the Optimization for Data Science course teach me?
 
 How many credits is the Optimization for Data Science course?
@@ -317,10 +231,6 @@ What textbook will the Optimization for Data Science course refer to? List them 
 When is Optimization for Data Science taught?
 
 What are the prerequisites for Optimization for Data Science?
-
-Which courses does Optimization for Data Science serve as a prerequisite for?
-
-
 
 What does the Simulation and Modelling course teach me?
 
@@ -332,10 +242,6 @@ When is Simulation and Modelling taught?
 
 What are the prerequisites for Simulation and Modelling?
 
-Which courses does Simulation and Modelling serve as a prerequisite for?
-
-
-
 What does the Supply Chain Management course teach me?
 
 How many credits is the Supply Chain Management course?
@@ -345,10 +251,6 @@ What textbook will the Supply Chain Management course refer to? List them in bul
 When is Supply Chain Management taught?
 
 What are the prerequisites for Supply Chain Management?
-
-Which courses does Supply Chain Management serve as a prerequisite for?
-
-
 
 What does the Sports Data Science course teach me?
 
@@ -360,34 +262,19 @@ When is Sports Data Science taught?
 
 What are the prerequisites for Sports Data Science?
 
-Which courses does Sports Data Science serve as a prerequisite for?
-
-
-
 What does the Data Science for Politics and Policymaking course teach me?
 
 How many credits is the Data Science for Politics and Policymaking course?
-
-What textbook will the Data Science for Politics and Policymaking course refer to? List them in bullet points.
 
 When is Data Science for Politics and Policymaking taught?
 
 What are the prerequisites for Data Science for Politics and Policymaking?
 
-Which courses does Data Science for Politics and Policymaking serve as a prerequisite for?
-
-
-
-
 What was my last question?
-
-Where is Bangalore?
 
 Which courses are required for the Data Science Major? List in Bullet Points
 
 Will I get a job if I do Data Science?
-
-
 
 Does any course teach linear regression?
 
@@ -433,10 +320,7 @@ Does any course teach calculus fundamentals?
 
 Does any course teach linear algebra concepts?
 
-Does any course teach mathematical foundations of data science?
-
-
-
+Does any course teach Probability?
 
 What are the core courses required for the Data Science major?
 
@@ -471,4 +355,3 @@ What reference textbooks are used in the courses?
 How many credits and courses will I have to complete?
 
 What is the timeline of required courses?
-
