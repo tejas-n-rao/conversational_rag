@@ -141,9 +141,9 @@ A student wanting to minor in data science should gain 32 credits from pursuing 
 
 The following courses are required for a student to graduate with a minor in data science:
 
-3-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning and Machine Learning.
+3-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning, Machine Learning.
 
-4-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Introduction to Linear Algebra (COMP208 | DATA208), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning and Machine Learning.
+4-year Data Science Minor: Python for Data Science (DATA201), Mathematical Foundations of Data Science – I (DATA203), Introduction to Linear Algebra (COMP208 | DATA208), Data Structures and Algorithms, Applied Statistics (DATA204), Introduction to Statistical Learning, Machine Learning.
 
 
 
