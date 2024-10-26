@@ -130,7 +130,9 @@ def get_response(query, state):
     return llm_response, state
 
 # Title of Webpages
-st.title("RAG BOT") # Change this
+st.title("RAG BOT") # Change this to include a name
+st.caption("As this chatbot is built on an LLM, it can make mistakes. Contact discipline co-ordinators if doubts persist.")
+
 
 # tracking history of session state
 if "messages" not in st.session_state:
