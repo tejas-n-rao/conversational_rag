@@ -1,6 +1,7 @@
 This document provides an overview of the Data Science major, beginning with an introduction to the major. It outlines the structure of the Data Science program, including details on the minor in Data Science. It also contains course descriptions for both the required courses and available electives within the program.
 
 
+According to Wikipedia, Data science is an interdisciplinary academic field[1] that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured, or unstructured data. 
 
 
 
