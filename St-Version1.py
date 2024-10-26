@@ -1,11 +1,4 @@
-# TO-DO: 
-
-# Improve model
-# Host on AWS
-# Improve conversational answers
-# Course codes in source.
-# Other Buttons to add functionality ...
-# UI tweaking: Streaming, Buttons etx
+# TO-DO: Host on AWS/Azure
 
 
 # Imports
