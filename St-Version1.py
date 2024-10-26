@@ -129,10 +129,32 @@ def get_response(query, state):
 
     return llm_response, state
 
-# Title of Webpages
-st.title("RAG BOT") # Change this to include a name
+# Title of Webpage
+st.title("RAG BOT") # Change this
+
+# Captioning Page
 st.caption("As this chatbot is built on an LLM, it can make mistakes. Contact discipline co-ordinator if doubts persist.")
 
+# Creating section for example prompts
+st.markdown("""-----------------------------------------------------""")
+
+# Opening Questions.txt
+with open ("Questions.txt", "r") as f:
+    sample_questions = f.read().split("\n\n")
+
+i,j,k = nprand.randint(0, len(sample_questions) -1 , 3) # Random Numbers to determine Questions
+
+# Displaying Example Prompts
+st.markdown("""###### Example Prompts""")
+st.markdown(f"""
+* {sample_questions[i]}
+* {sample_questions[j]}
+* {sample_questions[k]}
+""")
+st.markdown("""-----------------------------------------------------""")
+
+# Chat window section
+st.markdown("""### Chat Window""")
 
 # tracking history of session state
 if "messages" not in st.session_state:
