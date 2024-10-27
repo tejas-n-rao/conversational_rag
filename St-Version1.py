@@ -5,6 +5,8 @@
 import os
 import uuid
 
+import numpy.random as nprand
+
 from dotenv import load_dotenv
 
 import pinecone
