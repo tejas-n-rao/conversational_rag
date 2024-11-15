@@ -1,4 +1,11 @@
 # TO-DO: Host on AWS/Azure
+# TODO Come up with a good name for the bot
+# TODO Add information regarding professors/teachers for the course
+# TODO Port over to Krea openai account
+# TODO Deploy on a paid version of AWS cloud
+# TODO Do some sample testing with a few first years or a sample group to better understand the types of questions we should expect.
+# TODO Maybe add dynamic prompting to the bot
+# TODO Maybe try deploying for the HPC
 
 
 # Imports
@@ -47,7 +54,7 @@ def retrieve_from_pinecone(query, top_k=10): # top_k indicates how many chunks w
 # llm instance
 llm = ChatOpenAI(
     model="gpt-4o-mini",
-    temperature=0.3,  # Experiment with different Temperatures
+    temperature=0.1,  # Experiment with different Temperatures. Set to 0.1 to reduce randomness of the response
 )
 
 # Variable storing how many messages (10) will be remembered (Human + Bot): For conversationalness
