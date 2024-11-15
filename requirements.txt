@@ -1,9 +1,20 @@
-langchain_community==0.3.3
-langchain_core==0.3.12
-langchain_experimental==0.3.2
-langchain_openai==0.2.3
+# LangChain
+langchain-community==0.3.3
+langchain-core==0.3.12
+langchain-experimental==0.3.2
+langchain-openai==0.2.3
+
+# LangGraph
 langgraph==0.2.39
-numpy<2.00
-pinecone==5.3.1
+
+# Core dependencies
+numpy<2.0.0
+
+# Pinecone
+pinecone-client==5.3.1
+
+# Environment variable management
 python-dotenv==1.0.1
+
+# Streamlit
 streamlit==1.39.0
