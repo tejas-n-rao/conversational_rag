@@ -8,7 +8,7 @@ langchain-openai==0.2.3
 langgraph==0.2.39
 
 # Core dependencies
-numpy=1.26.2
+numpy==1.26.2
 
 # Pinecone
 pinecone-client
