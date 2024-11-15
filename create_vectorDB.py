@@ -9,7 +9,7 @@ from langchain_openai import OpenAIEmbeddings
 from pinecone import Pinecone, ServerlessSpec
 
 
-load_env()
+load_dotenv()
 
 # Load the document
 text_loader = TextLoader("data/document_test.txt")
@@ -30,7 +30,7 @@ chunk_embeds = embedding_model.embed_documents(chunks_text)
 
 
 spec = ServerlessSpec(cloud="aws", region="us-east-1") # spec instance
-pc = Pinecone(api_key=os.genv("PINECONE_API_KEY")) # pinecone object
+pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY")) # pinecone object
 
 
 index_name = "courses-ds"
