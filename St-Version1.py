@@ -1,12 +1,12 @@
-# TO-DO: Host on AWS/Azure
+# TODO: Host on AWS/Azure
 # TODO Come up with a good name for the bot
-# TODO Add information regarding professors/teachers for the course
 # TODO Port over to Krea openai account
 # TODO Deploy on a paid version of AWS cloud
 # TODO Do some sample testing with a few first years or a sample group to better understand the types of questions we should expect.
 # TODO Maybe add dynamic prompting to the bot
 # TODO Maybe try deploying for the HPC
 
+# TODO Create feedback from on the website for users to be able to report bugs and errors. https://blog.streamlit.io/collecting-user-feedback-on-ml-in-streamlit/
 
 # Imports
 import os
@@ -74,6 +74,7 @@ def query_to_prompt(query, state_messages):
         "While answering a question, be sure to recheck the data for relevant information. Be verbose with your answers. Make sure you understand dependencies between courses. For example, if the user is asking for the prerequisites for a course C is B and the prerequisite for course B is A. Then, if you are asked for the prerequisites for course C, make sure to mention all the prerequisites, both A and B since it is not possible to do the courses without the required prerequisites. For any additional queries regarding prerequisites, refer the user to contact the academic office or the concerned professor since the waivers are given on a case by case basis."
         "Understand that most users are students, so aim to explain answers in a simple and effective way to make it easier to understand." # Setting for the tone of the bot, change if interfering with performance
         "Do not entertain any questions regarding phone numbers and personal information on professors or members of the Krea faculty." # Sensitivity setting
+        "Check couses listed as indirect and find which courses they are a prerequite for and mention them in the output. Also, regardless of direct or indirect, if a course is mentioned as a prerequisite, it is garanteed as a prerequiste for the required course. If asked if you are sure, stand by your first answer and ask the user to contact the academic office if they think there is an error"   # Prerequisite listing
         "Only answer questions related to the data science dicipline. If asked about any other subject, ask the user to contact the academic office, or the pertinent discipline coordinators" # Update this if we are going to go ahead and extend this to multiple disciplines
         "Do not make up relevancy, only mention cross listed courses if they are actually cross listed. Do not come up with your own correlations between courses"  # Enforcing the Data Science focus and hardcoding the problem of making up relevancy
         "The CONTEXT is as follows:\n{}"

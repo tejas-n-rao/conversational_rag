@@ -1,7 +1,7 @@
 This document provides an overview of the Data Science major, beginning with an introduction to the major. It outlines the structure of the Data Science program, including details on the minor in Data Science. It also contains course descriptions for both the required courses and available electives within the program.
 
 
-According to Wikipedia, Data science is an interdisciplinary academic field[1] that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured, or unstructured data. 
+According to Wikipedia, Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge and insights from potentially noisy, structured, or unstructured data. 
 
 
 
@@ -53,7 +53,7 @@ Credit requirements:
 4-year Data-Science Major / Single Major ( Np Capstone): 80 Credits (44 required + 36 electives)
 
 
-
+Concentration in Data Science: A student wanting to pursue a Concentration in Data Science should gain 16 credits from pursuing Data Science courses listed below: Python for Data Science, Mathematical Foundations of Data Science, Data Structures and Algorithms, Applied Statistics
 
 
 Structure of the Data Science major
@@ -661,9 +661,68 @@ Algorithms of the Internet (Computer Science)
 Security: Technology, Privacy, and Ethics (Computer Science)
 Data Politics (Politics)
 
+Course Prerequisites:
 
+Python for Data Science: None
+Introduction to Data Science: None
+Mathematical Foundations of Data Science - I: None
+Introduction to Linear Algebra: Mathematical Foundations of Data Science - I
+Applied Statistics: Mathematical Foundations of Data Science - I
+Introduction to Calculus: None
+Data Structures and Algorithms: Python for Data Science
+Data Management: Python for Data Science, Data Structures and Algorithms
+Statistical Learning:
+Mathematical Foundations of Data Science - I
+Introduction to Linear Algebra
+Data Structures and Algorithms
+Applied Statistics
+Python for Data Science (indirect)
+Machine Learning:
+Mathematical Foundations of Data Science - I
+Introduction to Linear Algebra
+Data Structures and Algorithms
+Applied Statistics
+Python for Data Science (indirect)
+Statistical Learning
+Responsible AI: None
+Introduction to Statistical Learning:
+Mathematical Foundations of Data Science - I
+Introduction to Linear Algebra
+Data Structures and Algorithms
+Applied Statistics
+Python for Data Science (indirect)
+Big Data Analytics: Python for Data Science, Data Structures and Algorithms
+Computer Vision:
+Machine Learning
+Mathematical Foundations of Data Science - I (indirect)
+Introduction to Linear Algebra (indirect)
+Applied Statistics (indirect)
+Data Structures and Algorithms (indirect)
+Statistical Learning (indirect)
+Natural Language Processing: Same as Computer Vision
+Optimization for Data Science: Same as Computer Vision
+Simulation and Modelling:
+Introduction to Calculus
+Applied Statistics
+Python for Data Science (indirect)
+Data Structures and Algorithms
+History of Data Science: None
+Data Science for Public Policy: None
+Data Politics: None
+Game Theory: Microeconomics
+Computational Methods: Mathematical Methods - I
+Algorithms of the Internet:
+Mathematical Foundations of Computer Science I, III, or Data Science
+Introduction to Calculus (for some pathways)
+Security: Technology, Privacy, and Ethics:
+Mathematical Foundations of Computer Science I or Data Science
+Econometrics - II: Econometrics - I
 
+Professor Information:
 
+Dr Shyam Kumar Sudhakar: Assistant Professor of Biological Sciences, DISCIPLINE COORDINATOR FOR DATA SCIENCE. Assistant Professor of Biological Sciences, DISCIPLINE COORDINATOR FOR DATA SCIENCE
+Dr Rangachary Kommanduri: Visiting Assistant Professor of Data Science. PhD, Indian Institute of Information Technology, Sri City.
+Dr Srikrishnan Divakaran: Associate Professor of Computer Science, Discipline Coordinator for Computer Science. PhD, Rutgers University.
 
 
 
