@@ -138,7 +138,7 @@ def get_response(query, state):
     return llm_response, state
 
 # Title of Webpage
-st.title("RAG BOT") # Change this
+st.title("SyllaBot") # Change this
 
 # Captioning Page
 st.caption("As this chatbot is built on an LLM, it can make mistakes. Contact discipline co-ordinator if doubts persist.")
