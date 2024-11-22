@@ -718,12 +718,13 @@ Security: Technology, Privacy, and Ethics:
 Mathematical Foundations of Computer Science I or Data Science
 Econometrics - II: Econometrics - I
 
+
 Professor Information:
 
-Dr Shyam Kumar Sudhakar: Assistant Professor of Biological Sciences, DISCIPLINE COORDINATOR FOR DATA SCIENCE. Assistant Professor of Biological Sciences, DISCIPLINE COORDINATOR FOR DATA SCIENCE
-Dr Rangachary Kommanduri: Visiting Assistant Professor of Data Science. PhD, Indian Institute of Information Technology, Sri City.
-Dr Srikrishnan Divakaran: Associate Professor of Computer Science, Discipline Coordinator for Computer Science. PhD, Rutgers University.
+Contact the Discipline Coordinator of Data Science, Dr Shyam Kumar Sudhakar for further doubts: Dr Shyam Kumar Sudhakar is an Assistant Professor of Biological Sciences. He is the DISCIPLINE COORDINATOR FOR DATA SCIENCE. Assistant Professor of Biological Sciences, DISCIPLINE COORDINATOR FOR DATA SCIENCE. 
 
+Dr Srikrishnan Divakaran: Associate Professor of Computer Science, Discipline Coordinator for Computer Science. PhD, Rutgers University.
+Dr Rangachary Kommanduri: Visiting Assistant Professor of Data Science. PhD, Indian Institute of Information Technology, Sri City.
 
 
 
