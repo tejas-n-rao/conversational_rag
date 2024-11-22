@@ -446,7 +446,7 @@ Electives that are offered by other programs that will be either cross-listed or
 
 
 Previously Offered Electives:
-Database Management Systems
+Database Management Systems: This is an Elective offered in Trimester 4.
 Description of the Database Management Systems course: The Database Management Systems course is offered in Trimester 4 and is a 4-credit course. This course introduces the core principles and techniques for designing and implementing relational database systems. Students will gain both theoretical knowledge and practical skills to efficiently organize, maintain, and retrieve information from a DBMS. They will learn to design data models using Entity-Relationship (ER) diagrams and apply normalization principles to enhance data integrity. The course covers SQL proficiency, enabling students to write complex queries for data manipulation and definition. Additionally, students will explore transaction management and concurrency control to ensure data consistency.
 
 Prerequisites for the Database Management Systems course: None; Though the course has no prerequisites, some programming experience is recommended.
@@ -468,7 +468,7 @@ Database Management Systems, Raghurama Krishnan, Johannes Gehrke, TATA McGraw-Hi
 
 
 
-Digitalization and Society: Understanding Risks, Promoting Justice:
+Digitalization and Society: Understanding Risks, Promoting Justice: This is an Elective course offered in Trimester 5.
 Description of the Digitalization and Society: Understanding Risks, Promoting Justice course: In an era dominated by digital technologies, which have seemingly integrated themselves into every realm of life and have been taken up by industry, business, policymakers, civil society alike, understanding the impacts of digitalization on society is paramount. This course delves into the complexities of digitalization, exploring both its risks and opportunities while emphasising the pursuit of societal justice through informed design and ethical considerations. It encourages students to go beyond the usual narratives of the benefits of digitalization and ask critical questions which can help shape it in ways that recenter the emancipation of diverse types of end users. The course draws primarily from academic work in the fields of Science and Technology Studies (STS), Critical Social Science, Feminist Posthumanities and Media Studies. This course offers a unique opportunity to explore cutting-edge issues at the intersection of technology, society, and ethics using ‘real world’ case studies from India, Europe, the US and beyond. By gaining insights into the complex societal impacts of digitalization, students will be equipped to navigate challenges on the topic in both academic and industry settings. Whether pursuing further research or embarking on a career in technology, this course aims to provide a solid foundation for understanding and promoting justice in the digital age.
 
 Learning Objectives of the Digitalization and Society: Understanding Risks, Promoting Justice course:
