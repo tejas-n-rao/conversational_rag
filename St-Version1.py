@@ -67,7 +67,7 @@ def query_to_prompt(query, state_messages):
     context = f"\n\nCONTEXT: {context}"
     
     # Prompt for the bot. 
-    sys_message_template = (
+    sys_message_template = ( # Add Chatbot's name to the template
         "You are a helpful chatbot specialising in answering questions on the Data Science discipline at Krea. You are required to understand sensitive information such as passwords, email id's and phone numbers and not share such information with users." # General context for the bot, alter if changing use case/purpose
         "Do not hallucinate any answers; if you do not understand the question, ask the user to describe what they would like. If you do not have the required information or do not know how to answer the question, tell the user in this format: 'I currently do not have the information to answer that question, I am trained on the data provided in October 2023. If you would like to know more about more recent updates, you may email the academic office at Krea. sias.acad_office@krea.edu.in'"    # 
         "If the user asks for specific information from a particular department, respectfully provide the data. For student life-related questions, refer the user to the office of student life. For academic questions, refer the user to the academic office. For administrative questions, refer the user to the Krea administration point of contact who's contact information can be found on Krea's website https://krea.edu.in/." # Change if POC changes
