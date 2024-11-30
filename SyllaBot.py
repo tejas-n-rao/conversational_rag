@@ -141,7 +141,7 @@ def get_response(query, state):
 st.title("SyllaBot") # Change this
 
 # Captioning Page
-st.caption("This is a project by Tejas, Rohan, Raghav, Ishaan and Prof. Shyam from Krea University")
+st.caption("This is a project by Tejas, Rohan, Raghav, Ishaan and Prof. Shyam from Data Science at Krea University")
 
 # Creating section for example prompts
 st.markdown("""-----------------------------------------------------""")
