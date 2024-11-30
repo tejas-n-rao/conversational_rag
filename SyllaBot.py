@@ -1,12 +1,4 @@
-# TODO: Host on AWS/Azure 
-# TODO Come up with a good name for the bot
-# TODO Port over to Krea openai account 
-# TODO Deploy on a paid version of AWS cloud
-# TODO Do some sample testing with a few first years or a sample group to better understand the types of questions we should expect.
 # TODO Maybe add dynamic prompting to the bot
-# TODO Maybe try deploying for the HPC 
-
-# TODO Create feedback from on the website for users to be able to report bugs and errors. https://blog.streamlit.io/collecting-user-feedback-on-ml-in-streamlit/
 
 # Imports
 import os
