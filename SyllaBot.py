@@ -133,7 +133,7 @@ def get_response(query, state):
 st.title("SyllaBot") # Change this
 
 # Captioning Page
-st.caption("This is a project by Tejas, Rohan, Raghav, Ishaan and Prof. Shyam from Data Science at Krea University. This is an initiative from the student and faculty of the Data Science department at Krea University") # Initial caption for on the Streamlit webpage
+st.caption("This is a project by Tejas, Rohan, Raghav, Ishaan and Prof. Shyam from Data Science at Krea University. This is an initiative from the students and faculty of the Data Science department at Krea University") # Initial caption for on the Streamlit webpage
 
 # Creating section for example prompts
 st.markdown("""-----------------------------------------------------""")
