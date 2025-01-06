@@ -747,13 +747,3 @@ For the 3-year exit option at Krea, you must earn 60 credits for a single major 
 At Krea, certain courses might be cross-listed between disciplines, This implies that the particular course is relevant for all the disciplines the course has been cross-listed with. A student may double count i.e. count a cross -listed course towards both disciplines the course has been cross-listed with only twice in their time at Krea University.
 
 Data science has become a cornerstone of modern industries and is crucial in the job market for several reasons. Companies across all industries are generating massive amounts of data. Data science enables organizations to process, analyze, and extract actionable insights from this data, allowing for informed decision-making. Predictive analytics helps businesses anticipate trends, optimize strategies, and reduce risks. Businesses leveraging data science can stay ahead of competitors by identifying opportunities, understanding consumer behavior, and improving customer experience. The exponential growth of big data and advancements in cloud computing have created an ever-expanding ecosystem for data science. With more data being produced daily, the need for professionals who can analyze and derive value from it continues to rise. These are just a few of the reasons on why data sceince is important in the job market, for more information you can refer to the Krea Data Science page or reach out to the discipline co-ordinator.
-
-Refer to this list professors taking the respective courses: 
-
-Python for Data Science: Shyam Sudhakar
-Introduction to Data Science: Shyam Sudhakar
-Mathematical Foundations of Data Science: Prathamesh Turaga
-Introduction to Linear Algebra: Debangana Mukherjee
-Applied Statistics: Brijeshkumar Jha
-Data Structures and Algorithms: Prathamesh Turaga
-
